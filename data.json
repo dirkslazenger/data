@@ -351,13 +351,13 @@
   },
   {
     "date": "21/04/2014",
-    "injuries": 1331200,
+    "injuries": 200,
     "governate": "Idlib",
     "tt_perp": "Unconfirmed",
     "tt_location": "Telmans_",
     "tt_chem": "Chlorine",
     "tt_casualties": 3,
-    "tt_injuries": 1330200
+    "tt_injuries": 133200
   },
   {
     "date": "21/04/2014",
@@ -871,7 +871,7 @@
   },
   {
     "date": "10/08/2016",
-    "injuries": 60165,
+    "injuries": 60,
     "governate": "Aleppo",
     "tt_perp": "Syrian Government",
     "tt_location": "Zabdiya",
@@ -1051,7 +1051,7 @@
   },
   {
     "date": "23/11/2016",
-    "injuries": 43386,
+    "injuries": 43,
     "governate": "Aleppo",
     "tt_perp": "Syrian Government",
     "tt_location": "Karm al-Jazmati",
