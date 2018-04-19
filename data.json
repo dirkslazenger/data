@@ -1,0 +1,1432 @@
+[
+  {
+    "date": "19/03/2013",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Damascus",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "19/03/2013",
+    "injuries": 110,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Khan al-Asal",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 25,
+    "tt_injuries": "110+"
+  },
+  {
+    "date": "19/03/2013",
+    "injuries": 80,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Khan al-Asal",
+    "tt_chem": "Sarin",
+    "tt_casualties": 20,
+    "tt_injuries": "80+"
+  },
+  {
+    "date": "19/03/2013",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Khan al-Asal",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "13/04/2013",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sheikh Maqsoud",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "13/04/2013",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sheikh Maqsoud",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "29/-4/2-13",
+    "injuries": 19,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Sarin",
+    "tt_casualties": 1,
+    "tt_injuries": 19
+  },
+  {
+    "date": "29/04/2013",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "29/04/2013",
+    "injuries": 23,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Sarin",
+    "tt_casualties": 1,
+    "tt_injuries": 23
+  },
+  {
+    "date": "21/08/2013",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Eastern Ghouta",
+    "tt_chem": "Sarin",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "21/08/2013",
+    "injuries": 5000,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Eastern Ghouta",
+    "tt_chem": "Sarin",
+    "tt_casualties": 1500,
+    "tt_injuries": 5000
+  },
+  {
+    "date": "21/08/2013",
+    "injuries": 3600,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Eastern Ghouta",
+    "tt_chem": "Sarin",
+    "tt_casualties": 734,
+    "tt_injuries": 3600
+  },
+  {
+    "date": "21/08/2013",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Eastern Ghouta",
+    "tt_chem": "Sarin",
+    "tt_casualties": "Mass Casualties",
+    "tt_injuries": "Unconfirmed"
+  },
+  {
+    "date": "21/08/2013",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Western Ghouta",
+    "tt_chem": "Sarin",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "21/08/2013",
+    "injuries": 3600,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Western Ghouta",
+    "tt_chem": "Sarin",
+    "tt_casualties": 80,
+    "tt_injuries": 3600
+  },
+  {
+    "date": "22/08/2013",
+    "injuries": 18,
+    "governate": "Damascus",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Bahhariyeh, Eastern Ghouta",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 18
+  },
+  {
+    "date": "24/08/2013",
+    "injuries": 4,
+    "governate": "Damascus",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Jobar",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 4
+  },
+  {
+    "date": "25/08/2013",
+    "injuries": 5,
+    "governate": "Damascus",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Ashrafiyat Sahnaya",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 5
+  },
+  {
+    "date": "10/04/2014",
+    "injuries": 12,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 12
+  },
+  {
+    "date": "11/04/2014",
+    "injuries": 100,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 100
+  },
+  {
+    "date": "11/04/2014",
+    "injuries": 207,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": 207
+  },
+  {
+    "date": "11/04/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "11/04/2014",
+    "injuries": 5,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 5
+  },
+  {
+    "date": "11/04/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": "",
+    "tt_injuries": ""
+  },
+  {
+    "date": "12/04/2014",
+    "injuries": 25,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 25
+  },
+  {
+    "date": "12/04/2014",
+    "injuries": 150,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 4,
+    "tt_injuries": 150
+  },
+  {
+    "date": "12/04/2014",
+    "injuries": 4,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 4
+  },
+  {
+    "date": "12/04/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita & al0Temana",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "14/04/2014",
+    "injuries": 5,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Halfaya",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 5
+  },
+  {
+    "date": "16/04/2014",
+    "injuries": 35,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Zowar",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 35
+  },
+  {
+    "date": "18/04/2014",
+    "injuries": 70,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 4,
+    "tt_injuries": 70
+  },
+  {
+    "date": "18/04/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "18/04/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "18/04/2014",
+    "injuries": 2,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 2
+  },
+  {
+    "date": "18/04/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "21/04/2014",
+    "injuries": 1331200,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Telmans_",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 1330200
+  },
+  {
+    "date": "21/04/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Telmans",
+    "tt_chem": "Chemical Agents",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "21/04/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Telmans",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "21/04/2014",
+    "injuries": 133,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Telmans",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 133
+  },
+  {
+    "date": "29/04/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "29/04/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "30/04/2014",
+    "injuries": 35,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 35
+  },
+  {
+    "date": "19/05/2014",
+    "injuries": 4,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 4
+  },
+  {
+    "date": "21/05/2014",
+    "injuries": 38,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 38
+  },
+  {
+    "date": "22/05/2014",
+    "injuries": 12,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 4,
+    "tt_injuries": 12
+  },
+  {
+    "date": "22/05/2014",
+    "injuries": 17,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 17
+  },
+  {
+    "date": "25/05/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "26/05/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Temana",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "29/05/2014",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Lataminah",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "27/07/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "28/08/2014",
+    "injuries": 50,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Al Sayyad",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 50
+  },
+  {
+    "date": "28/08/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "30/08/2014",
+    "injuries": 1,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "15/02/2015",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Darayya",
+    "tt_chem": "Sarin0Like Substance",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "16/03/2015",
+    "injuries": 26,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Qmenas",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 26
+  },
+  {
+    "date": "16/03/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Qmenas",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "16/03/2015",
+    "injuries": 110,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Qmenas and Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 6,
+    "tt_injuries": 110
+  },
+  {
+    "date": "16/03/2015",
+    "injuries": 6,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 6,
+    "tt_injuries": 6
+  },
+  {
+    "date": "16/03/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 6,
+    "tt_injuries": 0
+  },
+  {
+    "date": "16/03/2015",
+    "injuries": 100,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Governemnt",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 5,
+    "tt_injuries": 100
+  },
+  {
+    "date": "23/03/2015",
+    "injuries": 21,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Binnish",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 21
+  },
+  {
+    "date": "23/03/2015",
+    "injuries": 20,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Qmenas and Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 20
+  },
+  {
+    "date": "23/03/2015",
+    "injuries": 5,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 5
+  },
+  {
+    "date": "24/03/2015",
+    "injuries": 3,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Binnish",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 3
+  },
+  {
+    "date": "24/03/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Binnish",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "26/03/2015",
+    "injuries": 10,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 10
+  },
+  {
+    "date": "26/03/2015",
+    "injuries": 6,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 6
+  },
+  {
+    "date": "31/03/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Idlib City",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "31/03/2015",
+    "injuries": 38,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Idlib City",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 38
+  },
+  {
+    "date": "15/04/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kurin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "16/04/2015",
+    "injuries": 20,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Idlib City",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 20
+  },
+  {
+    "date": "27/04/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Neirab",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "01/05/2015",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Neirab",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "02/05/2015",
+    "injuries": 10,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Neirab",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": 10
+  },
+  {
+    "date": "02/05/2015",
+    "injuries": 10,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Neirab",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": 10
+  },
+  {
+    "date": "02/05/2015",
+    "injuries": 75,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 75
+  },
+  {
+    "date": "02/05/2015",
+    "injuries": 70,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Toxic Chemicals",
+    "tt_casualties": 0,
+    "tt_injuries": 70
+  },
+  {
+    "date": "07/05/2015",
+    "injuries": 17,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Kafr Batikh",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 17
+  },
+  {
+    "date": "16/05/2015",
+    "injuries": 4,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sarmin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 4
+  },
+  {
+    "date": "20/05/2015",
+    "injuries": 32,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Idlib City",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 32
+  },
+  {
+    "date": "21/08/2015",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Marea",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 85,
+    "tt_injuries": 1
+  },
+  {
+    "date": "21/08/2015",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "ISIS",
+    "tt_location": "Marea",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "05/04/2016",
+    "injuries": 4,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Sheikh Maqsoud",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 4
+  },
+  {
+    "date": "07/04/2016",
+    "injuries": 8,
+    "governate": "Aleppo",
+    "tt_perp": "Armed Groups",
+    "tt_location": "Sheikh Maqsoud",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 8
+  },
+  {
+    "date": "16/04/2016",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita & al0Temana",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "18/04/2016",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Kafr Zita & al0Temana",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "01/08/2016",
+    "injuries": 28,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 28
+  },
+  {
+    "date": "10/08/2016",
+    "injuries": 60165,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Zabdiya",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 60065
+  },
+  {
+    "date": "16/08/2016",
+    "injuries": 10,
+    "governate": "Aleppo",
+    "tt_perp": "ISIS",
+    "tt_location": "Marea",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 0,
+    "tt_injuries": 10
+  },
+  {
+    "date": "16/08/2016",
+    "injuries": 10,
+    "governate": "Aleppo",
+    "tt_perp": "ISIS",
+    "tt_location": "Marea",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 0,
+    "tt_injuries": 10
+  },
+  {
+    "date": "06/09/2016",
+    "injuries": 80,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Sukkari",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": 80
+  },
+  {
+    "date": "06/09/2016",
+    "injuries": 257,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Sukkari",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": 257
+  },
+  {
+    "date": "15/09/2016",
+    "injuries": 2,
+    "governate": "Aleppo",
+    "tt_perp": "ISIS",
+    "tt_location": "Umm Hawsh",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 0,
+    "tt_injuries": 2
+  },
+  {
+    "date": "16/09/2016",
+    "injuries": 2,
+    "governate": "Aleppo",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Umm Hawsh",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 0,
+    "tt_injuries": 2
+  },
+  {
+    "date": "16/09/2016",
+    "injuries": 2,
+    "governate": "Aleppo",
+    "tt_perp": "ISIS",
+    "tt_location": "Umm Hawsh",
+    "tt_chem": "Sulfur Mustard",
+    "tt_casualties": 0,
+    "tt_injuries": 2
+  },
+  {
+    "date": "16/09/2016",
+    "injuries": 3,
+    "governate": "Aleppo",
+    "tt_perp": "ISIS",
+    "tt_location": "Umm Hawsh",
+    "tt_chem": "Mustard gas",
+    "tt_casualties": 3,
+    "tt_injuries": 3
+  },
+  {
+    "date": "01/10/2016",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "M10 Hospital",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": "Several"
+  },
+  {
+    "date": "18/11/2016",
+    "injuries": 12,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Masaken Hanano, Ard al-Hamra",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 12
+  },
+  {
+    "date": "18/11/2016",
+    "injuries": 12,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Masaken Hanano, Ard al-Hamra",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": "12+"
+  },
+  {
+    "date": "20/11/2016",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Sakhour",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 6,
+    "tt_injuries": 0
+  },
+  {
+    "date": "20/11/2016",
+    "injuries": 25,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Sakhour",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 6,
+    "tt_injuries": 25
+  },
+  {
+    "date": "20/11/2016",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Tariq al-Bab",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "20/11/2016",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Tariq al-Bab",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": "1+"
+  },
+  {
+    "date": "22/11/2016",
+    "injuries": 15,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Karm al-Qaterji, Daheert Awwad, Karm al-Jazmati",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": "Est. 15"
+  },
+  {
+    "date": "23/11/2016",
+    "injuries": 10,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Jazmati and Ard al-Hamra",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 1,
+    "tt_injuries": 10
+  },
+  {
+    "date": "23/11/2016",
+    "injuries": 43386,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Karm al-Jazmati",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 1,
+    "tt_injuries": 130
+  },
+  {
+    "date": "28/11/2016",
+    "injuries": 40,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Karm al-Qaterji, Qadi Askar",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": "40+"
+  },
+  {
+    "date": "08/12/2016",
+    "injuries": 70,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Fardous, al-Maghayer, Kallesh",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": "70+"
+  },
+  {
+    "date": "08/12/2016",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Bustan al-Qasr",
+    "tt_chem": "Chlroine",
+    "tt_casualties": 0,
+    "tt_injuries": "Several"
+  },
+  {
+    "date": "09/12/2016",
+    "injuries": 35,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Bustan al-Qasr",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 35
+  },
+  {
+    "date": "09/12/2016",
+    "injuries": 50,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Kallaseh",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": "50+"
+  },
+  {
+    "date": "10/12/2016",
+    "injuries": 1,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Al Hayat Clinic",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "12/12/2016",
+    "injuries": 42,
+    "governate": "Hama",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "al0Salaliyah, Uqayribat",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 42,
+    "tt_injuries": "Unconfirmed"
+  },
+  {
+    "date": "12/12/2016",
+    "injuries": 25,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Jrouh, Uqayribat",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 25,
+    "tt_injuries": "Unconfirmed"
+  },
+  {
+    "date": "08/01/2017",
+    "injuries": 46,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Bsima",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 46
+  },
+  {
+    "date": "08/01/2017",
+    "injuries": 6,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Bsima",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 6
+  },
+  {
+    "date": "30/01/2017",
+    "injuries": 11,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Marj al-Sultan",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 11
+  },
+  {
+    "date": "30/01/2017",
+    "injuries": 11,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Sultan al-Marj",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 11
+  },
+  {
+    "date": "09/02/2017",
+    "injuries": 6,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Arbin",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 6
+  },
+  {
+    "date": "25/03/2017",
+    "injuries": 35,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 35
+  },
+  {
+    "date": "25/03/2017",
+    "injuries": 32,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 32
+  },
+  {
+    "date": "25/03/2017",
+    "injuries": 32,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 3,
+    "tt_injuries": 32
+  },
+  {
+    "date": "29/03/2017",
+    "injuries": 35,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Qaboun",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 35
+  },
+  {
+    "date": "29/03/2017",
+    "injuries": 35,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Qaboun",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 35
+  },
+  {
+    "date": "30/03/2017",
+    "injuries": 85,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 85
+  },
+  {
+    "date": "30/03/2017",
+    "injuries": 169,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Sarin",
+    "tt_casualties": 0,
+    "tt_injuries": 169
+  },
+  {
+    "date": "30/03/2017",
+    "injuries": 169,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 169
+  },
+  {
+    "date": "03/04/2017",
+    "injuries": 12,
+    "governate": "Hama",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Lataminah",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 12
+  },
+  {
+    "date": "04/04/2017",
+    "injuries": 100,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Khan Sheikhoun",
+    "tt_chem": "Sarin",
+    "tt_casualties": 92,
+    "tt_injuries": "Hundreds"
+  },
+  {
+    "date": "04/04/2017",
+    "injuries": 100,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Khan Sheikhoun",
+    "tt_chem": "Sarin",
+    "tt_casualties": "Dozens",
+    "tt_injuries": "Hundreds"
+  },
+  {
+    "date": "04/04/2017",
+    "injuries": 201,
+    "governate": "Idlib",
+    "tt_perp": "Unconfirmed",
+    "tt_location": "Khan Sheikhoun",
+    "tt_chem": "Sarin0Like Substance",
+    "tt_casualties": 50,
+    "tt_injuries": 201
+  },
+  {
+    "date": "04/04/2017",
+    "injuries": 1,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Khan Sheikhoun",
+    "tt_chem": "Sarin",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "07/04/2017",
+    "injuries": 2,
+    "governate": "Aleppo",
+    "tt_perp": "Syrian Government",
+    "tt_location": "al-Hayat Hospital",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 2
+  },
+  {
+    "date": "07/04/2017",
+    "injuries": 2,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Qaboun",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 2
+  },
+  {
+    "date": "01/07/2017",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Ain Tarma",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "02/07/2017",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Zamalka",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "06/07/2017",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Jobar",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "13/01/2018",
+    "injuries": 1,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Douma",
+    "tt_chem": "Unconfirmed",
+    "tt_casualties": 0,
+    "tt_injuries": 0
+  },
+  {
+    "date": "22/01/2018",
+    "injuries": 21,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Douma",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 21
+  },
+  {
+    "date": "01/02/2018",
+    "injuries": 4,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Douma",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 4
+  },
+  {
+    "date": "04/02/2018",
+    "injuries": 11,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Governemnt",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 11
+  },
+  {
+    "date": "04/02/2018",
+    "injuries": 12,
+    "governate": "Idlib",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Saraqeb",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 0,
+    "tt_injuries": 12
+  },
+  {
+    "date": "25/02/2018",
+    "injuries": 18,
+    "governate": "Damascus",
+    "tt_perp": "Syrian Government",
+    "tt_location": "Eastern Ghouta",
+    "tt_chem": "Chlorine",
+    "tt_casualties": 2,
+    "tt_injuries": 18
+  }
+]
