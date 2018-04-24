@@ -8,7 +8,7 @@ startDate,endDate,taskName,status,taskManager
 15/01/2018,13/05/2018,Stoke City,grey,Paul Lambert
 01/07/2017,13/05/2018,Wigan Athletic,grey,Paul Cook
 16/02/2018,13/05/2018,Barnsley,grey,José Morais
-12/09/2017,13/05/2018,Crystal Palace,grey,Roy Hodgson
+12/09/2017,13/05/2018,Crystal Palace,permanent,Roy Hodgson
 06/02/2018,13/05/2018,Leeds United,grey,Paul Heckingbottom
 01/07/2016,13/05/2018,Manchester City,grey,Pep Guardiola
 26/12/2017,13/05/2018,Middlesbrough,grey,Tony Pulis
@@ -20,20 +20,20 @@ startDate,endDate,taskName,status,taskManager
 01/07/2016,13/05/2018,Blackpool,grey,Gary Bowyer
 01/07/2016,13/05/2018,Bolton Wanderers,grey,Phil Parkinson
 11/02/2018,13/05/2018,Bradford City,grey,Simon Grayson
-31/12/2014,13/05/2018,Brighton and Hove Albion,grey,Chris Hughton
+31/12/2014,13/05/2018,Brighton and Hove Albion,permanent,Chris Hughton
 05/10/2016,13/05/2018,Cardiff City,grey,Neil Warnock
 22/03/2018,13/05/2018,Charlton Athletic,grey,Lee Bowyer
 06/03/2017,13/05/2018,Coventry City,grey,Mark Robins
 28/12/2015,13/05/2018,Fulham,grey,Slaviša Jokanović
 07/12/2017,13/05/2018,Hull City,grey,Nigel Adkins
 01/11/2012,13/05/2018,Ipswich Town,grey,Mick McCarthy
-25/10/2017,13/05/2018,Leicester City,grey,Claude Puel
+25/10/2017,13/05/2018,Leicester City,permanent,Claude Puel
 01/07/2017,13/05/2018,Portsmouth,grey,Kenny Jackett
 08/01/2018,13/05/2018,Sheffield Wednesday,grey,Jos Luhukay
-14/03/2018,13/05/2018,Southampton,grey,Mark Hughes
-28/12/2017,13/05/2018,Swansea City,grey,Carlos Carvalhal
+14/03/2018,13/05/2018,Southampton,permanent,Mark Hughes
+28/12/2017,13/05/2018,Swansea City,permanent,Carlos Carvalhal
 21/01/2018,13/05/2018,Watford,grey,Javi Gracia
-02/04/2018,13/05/2018,West Bromwich Albion,grey,Darren Moore
+02/04/2018,13/05/2018,West Bromwich Albion,permanent,Darren Moore
 31/05/2017,13/05/2018,Wolverhampton Wanderers,grey,Nuno
 01/10/1996,13/05/2018,Arsenal,permanent,Arsène Wenger
 11/10/2012,13/05/2018,Bournemouth,permanent,Eddie Howe
@@ -53,10 +53,10 @@ startDate,endDate,taskName,status,taskManager
 28/12/2017,13/05/2018,Swansea City,permanent,Carlos Carvalhal
 27/05/2014,13/05/2018,Tottenham Hotspur,permanent,Mauricio Pochettino
 21/01/2018,13/05/2018,Watford,permanent,Javier Gracia
-02/04/2018,13/05/2018,West Bromwich Albion,caretaker,Darren Moore
+02/04/2018,13/05/2018,West Bromwich Albion,permanent,Darren Moore
 07/11/2017,13/05/2018,West Ham United,permanent,David Moyes
 29/11/2017,02/04/2018,West Bromwich Albion,permanent,Alan Pardew
-29/11/2017,01/04/2018,West Bromwich Albion,grey,Alan Pardew
+29/11/2017,01/04/2018,West Bromwich Albion,permanent,Alan Pardew
 24/11/2016,21/03/2018,Charlton Athletic,grey,Karl Robinson
 01/07/2016,20/03/2018,Reading,grey,Jaap Stam
 23/06/2017,12/03/2018,Southampton,permanent,Mauricio Pellegrino
@@ -69,46 +69,46 @@ startDate,endDate,taskName,status,taskManager
 01/07/2017,04/02/2018,Leeds United,grey,Thomas Christiansen
 28/05/2017,21/01/2018,Watford,permanent,Marco Silva
 01/07/2017,21/01/2018,Watford,grey,Marco Silva
-08/01/2018,16/01/2018,Stoke City,caretaker,Eddie Niedzwiecki
+08/01/2018,16/01/2018,Stoke City,permanent,Eddie Niedzwiecki
 01/01/2018,08/01/2018,Nottingham Forest,grey,Gary Brazil
 25/12/2017,07/01/2018,Sheffield Wednesday,grey,Lee Bullen
 30/05/2013,07/01/2018,Stoke City,permanent,Mark Hughes
 01/07/2013,06/01/2018,Stoke City,grey,Mark Hughes
 14/03/2017,31/12/2017,Nottingham Forest,grey,Mark Warburton
-22/12/2017,28/12/2017,Swansea City,caretaker,Leon Britton
+22/12/2017,28/12/2017,Swansea City,permanent,Leon Britton
 21/12/2017,27/12/2017,Swansea City,grey,Leon Britton
 01/07/2015,24/12/2017,Sheffield Wednesday,grey,Carlos Carvalhal
 09/06/2017,23/12/2017,Middlesbrough,grey,Garry Monk
 03/01/2017,20/12/2017,Swansea City,permanent,Paul Clement
-03/01/2017,20/12/2017,Swansea City,grey,Paul Clement
+03/01/2017,20/12/2017,Swansea City,permanent,Paul Clement
 09/06/2017,03/12/2017,Hull City,grey,Leonid Slutskiy
-24/10/2017,30/11/2017,Everton,caretaker,David Unsworth
-20/11/2017,29/11/2017,West Bromwich Albion,caretaker,Gary Megson
-20/11/2017,28/11/2017,West Bromwich Albion,grey,Gary Megson
+24/10/2017,30/11/2017,Everton,permanent,David Unsworth
+20/11/2017,29/11/2017,West Bromwich Albion,permanent,Gary Megson
+20/11/2017,28/11/2017,West Bromwich Albion,permanent,Gary Megson
 02/01/2015,20/11/2017,West Bromwich Albion,permanent,Tony Pulis
 01/01/2015,20/11/2017,West Bromwich Albion,grey,Tony Pulis
 09/06/2015,06/11/2017,West Ham United,permanent,Slaven Bilic
-17/10/2017,25/10/2017,Leicester City,caretaker,Michael Appleton
-17/10/2017,24/10/2017,Leicester City,grey,Michael Appleton
+17/10/2017,25/10/2017,Leicester City,permanent,Michael Appleton
+17/10/2017,24/10/2017,Leicester City,permanent,Michael Appleton
 14/06/2016,23/10/2017,Everton,permanent,Ronald Koeman
 23/02/2017,17/10/2017,Leicester City,permanent,Craig Shakespeare
-23/02/2017,16/10/2017,Leicester City,grey,Craig Shakespeare
+23/02/2017,16/10/2017,Leicester City,permanent,Craig Shakespeare
 17/09/2017,28/09/2017,Birmingham City,grey,Lee Carsley
 18/04/2017,16/09/2017,Birmingham City,grey,Harry Redknapp
 26/06/2017,11/09/2017,Crystal Palace,permanent,Frank de Boer
 01/07/2017,11/09/2017,Crystal Palace,grey,Frank de Boer
-23/12/2016,30/06/2017,Crystal Palace,grey,Sam Allardyce
-16/03/2017,30/06/2017,Middlesbrough,grey,Steve Agnew
+23/12/2016,30/06/2017,Crystal Palace,permanent,Sam Allardyce
+16/03/2017,30/06/2017,Middlesbrough,permanent,Steve Agnew
 11/03/2017,30/06/2017,Norwich City,grey,Alan Irvine
 12/05/2015,30/06/2017,Portsmouth,grey,Paul Cook
 01/07/2016,30/06/2017,Southampton,grey,Claude Puel
-01/07/2016,30/06/2017,Watford,grey,Walter Mazzarri
+01/07/2016,30/06/2017,Watford,permanent,Walter Mazzarri
 13/03/2017,30/06/2017,Wigan Athletic,grey,Graham Barrow
 30/06/2016,14/06/2017,Southampton,permanent,Claude Puel
-16/03/2017,09/06/2017,Middlesbrough,caretaker,Steve Agnew
+16/03/2017,09/06/2017,Middlesbrough,permanent,Steve Agnew
 06/11/2016,30/05/2017,Wolverhampton Wanderers,grey,Paul Lambert
 05/01/2017,25/05/2017,Hull City,permanent,Marco Silva
-05/01/2017,25/05/2017,Hull City,grey,Marco Silva
+05/01/2017,25/05/2017,Hull City,permanent,Marco Silva
 01/07/2016,25/05/2017,Leeds United,grey,Garry Monk
 23/12/2016,23/05/2017,Crystal Palace,permanent,Sam Allardyce
 23/07/2016,22/05/2017,Sunderland,permanent,David Moyes
@@ -120,20 +120,20 @@ startDate,endDate,taskName,status,taskManager
 12/10/2016,12/03/2017,Derby County,grey,Steve McClaren
 03/11/2016,12/03/2017,Wigan Athletic,grey,Warren Joyce
 09/01/2015,10/03/2017,Norwich City,permanent,Alex Neil
-09/01/2015,10/03/2017,Norwich City,grey,Alex Neil
+09/01/2015,10/03/2017,Norwich City,permanent,Alex Neil
 21/12/2016,05/03/2017,Coventry City,grey,Russell Slade
 13/07/2015,23/02/2017,Leicester City,permanent,Claudio Ranieri
-13/07/2015,23/02/2017,Leicester City,grey,Claudio Ranieri
+13/07/2015,23/02/2017,Leicester City,permanent,Claudio Ranieri
 03/06/2016,21/02/2017,Blackburn Rovers,grey,Owen Coyle
 01/07/2016,14/01/2017,Nottingham Forest,grey,Philippe Montanier
 22/07/2016,03/01/2017,Hull City,permanent,Mike Phelan
 23/07/2016,03/01/2017,Hull City,grey,Mike Phelan
-30/12/2016,03/01/2017,Swansea City,caretaker,Alan Curtis
+30/12/2016,03/01/2017,Swansea City,permanent,Alan Curtis
 28/12/2016,03/01/2017,Swansea City,grey,Alan Curtis
 04/10/2016,27/12/2016,Swansea City,permanent,Bob Bradley
 03/10/2016,27/12/2016,Swansea City,grey,Bob Bradley
 03/01/2015,22/12/2016,Crystal Palace,permanent,Alan Pardew
-03/01/2015,22/12/2016,Crystal Palace,grey,Alan Pardew
+03/01/2015,22/12/2016,Crystal Palace,permanent,Alan Pardew
 30/09/2016,20/12/2016,Coventry City,grey,Mark Venus
 27/10/2014,13/12/2016,Birmingham City,grey,Gary Rowett
 17/11/2016,23/11/2016,Charlton Athletic,grey,Kevin Nugent
@@ -148,7 +148,7 @@ startDate,endDate,taskName,status,taskManager
 01/07/2016,03/10/2016,Aston Villa,grey,Roberto Di Matteo
 01/07/2016,03/10/2016,Cardiff City,grey,Paul Trollope
 19/01/2016,03/10/2016,Swansea City,permanent,Francesco Guidolin
-19/01/2016,03/10/2016,Swansea City,grey,Francesco Guidolin
+19/01/2016,03/10/2016,Swansea City,permanent,Francesco Guidolin
 03/03/2015,29/09/2016,Coventry City,grey,Tony Mowbray
 27/05/2016,26/09/2016,Derby County,grey,Nigel Pearson
 01/06/2013,29/07/2016,Wolverhampton Wanderers,grey,Kenny Jackett
@@ -162,7 +162,7 @@ startDate,endDate,taskName,status,taskManager
 28/08/2011,30/06/2016,Bradford City,grey,Phil Parkinson
 06/10/2014,30/06/2016,Cardiff City,grey,Russell Slade
 14/01/2016,30/06/2016,Charlton Athletic,grey,José Riga
-20/12/2015,30/06/2016,Chelsea,caretaker,Guus Hiddink
+20/12/2015,30/06/2016,Chelsea,permanent,Guus Hiddink
 20/10/2015,30/06/2016,Leeds United,grey,Steve Evans
 14/06/2013,30/06/2016,Manchester City,permanent,Manuel Pellegrini
 24/06/2013,30/06/2016,Manchester City,grey,Manuel Pellegrini
@@ -172,26 +172,26 @@ startDate,endDate,taskName,status,taskManager
 01/07/2014,30/06/2016,Southampton,grey,Ronald Koeman
 05/06/2015,30/06/2016,Watford,permanent,Quique Sánchez Flores
 01/07/2015,30/06/2016,Watford,grey,Quique Flores
-12/05/2016,14/06/2016,Everton,caretaker,David Unsworth
-12/05/2016,14/06/2016,Everton,caretaker,Joe Royle
+12/05/2016,14/06/2016,Everton,permanent,David Unsworth
+12/05/2016,14/06/2016,Everton,permanent,Joe Royle
 16/06/2014,14/06/2016,Southampton,permanent,Ronald Koeman
-30/03/2016,02/06/2016,Aston Villa,caretaker,Eric Black
+30/03/2016,02/06/2016,Aston Villa,permanent,Eric Black
 08/02/2016,26/05/2016,Derby County,grey,Darren Wassall
 14/07/2014,23/05/2016,Manchester United,permanent,Louis van Gaal
 05/06/2013,12/05/2016,Everton,permanent,Roberto Martínez
 03/11/2015,29/03/2016,Aston Villa,permanent,Rémi Garde
-03/11/2015,28/03/2016,Aston Villa,grey,Rémi Garde
+03/11/2015,28/03/2016,Aston Villa,permanent,Rémi Garde
 12/10/2014,14/03/2016,Bolton Wanderers,grey,Neil Lennon
 02/02/2015,13/03/2016,Nottingham Forest,grey,Dougie Freedman
 11/06/2015,11/03/2016,Newcastle United,permanent,Steve McClaren
 01/06/2015,07/02/2016,Derby County,grey,Paul Clement
 25/02/2015,05/02/2016,Barnsley,grey,Lee Johnson
-11/12/2015,19/01/2016,Swansea City,caretaker,Alan Curtis
+11/12/2015,19/01/2016,Swansea City,permanent,Alan Curtis
 10/12/2015,18/01/2016,Swansea City,grey,Alan Curtis
 25/10/2015,13/01/2016,Charlton Athletic,grey,Karel Fraeye
 09/11/2015,27/12/2015,Fulham,grey,Peter Grant
-18/12/2015,20/12/2015,Chelsea,caretaker,Eddie Newton
-18/12/2015,20/12/2015,Chelsea,caretaker,Steve Holland
+18/12/2015,20/12/2015,Chelsea,permanent,Eddie Newton
+18/12/2015,20/12/2015,Chelsea,permanent,Steve Holland
 03/06/2013,17/12/2015,Chelsea,permanent,José Mourinho
 10/12/2015,16/12/2015,Reading,grey,Martin Kuhl
 04/02/2014,09/12/2015,Swansea City,permanent,Garry Monk
@@ -202,7 +202,7 @@ startDate,endDate,taskName,status,taskManager
 19/09/2014,08/11/2015,Fulham,grey,Kit Symons
 03/02/2015,04/11/2015,Queens Park Rangers,permanent,Chris Ramsey
 13/02/2015,04/11/2015,Queens Park Rangers,grey,Chris Ramsey
-25/10/2015,03/11/2015,Aston Villa,caretaker,Kevin MacDonald
+25/10/2015,03/11/2015,Aston Villa,permanent,Kevin MacDonald
 26/10/2015,02/11/2015,Aston Villa,grey,Kevin MacDonald
 16/02/2015,25/10/2015,Aston Villa,permanent,Tim Sherwood
 14/02/2015,25/10/2015,Aston Villa,grey,Tim Sherwood
@@ -213,8 +213,8 @@ startDate,endDate,taskName,status,taskManager
 26/10/2014,30/06/2015,Leeds United,grey,Neil Redfearn
 15/11/2011,30/06/2015,Leicester City,permanent,Nigel Pearson
 01/12/2013,30/06/2015,Sheffield Wednesday,grey,Stuart Gray
-15/11/2011,29/06/2015,Leicester City,grey,Nigel Pearson
-31/12/2014,09/06/2015,Newcastle United,caretaker,John Carver
+15/11/2011,29/06/2015,Leicester City,permanent,Nigel Pearson
+31/12/2014,09/06/2015,Newcastle United,permanent,John Carver
 07/10/2014,26/05/2015,Watford,grey,Slaviša Jokanović
 02/10/2013,25/05/2015,Derby County,grey,Steve McClaren
 24/10/2013,25/05/2015,Sheffield United,grey,Nigel Clough
@@ -229,29 +229,29 @@ startDate,endDate,taskName,status,taskManager
 12/02/2015,24/02/2015,Barnsley,grey,Paul Heckingbottom
 08/03/2013,22/02/2015,Coventry City,grey,Steven Pressley
 11/02/2015,13/02/2015,Aston Villa,grey,Scott Marshall
-03/02/2015,13/02/2015,Queens Park Rangers,caretaker,Kevin Bond
+03/02/2015,13/02/2015,Queens Park Rangers,permanent,Kevin Bond
 03/02/2015,12/02/2015,Queens Park Rangers,grey,Les Ferdinand
 02/06/2012,11/02/2015,Aston Villa,permanent,Paul Lambert
 17/12/2013,11/02/2015,Barnsley,grey,Danny Wilson
 01/07/2012,10/02/2015,Aston Villa,grey,Paul Lambert
 25/11/2012,03/02/2015,Queens Park Rangers,permanent,Harry Redknapp
-25/11/2012,02/02/2015,Queens Park Rangers,grey,Harry Redknapp
+25/11/2012,02/02/2015,Queens Park Rangers,permanent,Harry Redknapp
 01/07/2014,01/02/2015,Nottingham Forest,grey,Stuart Pearce
 01/07/2014,11/01/2015,Charlton Athletic,grey,Bob Peeters
-06/04/2014,05/01/2015,Norwich City,caretaker,Neil Adams
+06/04/2014,05/01/2015,Norwich City,permanent,Neil Adams
 07/04/2014,05/01/2015,Norwich City,grey,Neil Adams
-27/12/2014,03/01/2015,Crystal Palace,caretaker,Keith Millen
+27/12/2014,03/01/2015,Crystal Palace,permanent,Keith Millen
 28/12/2014,02/01/2015,Crystal Palace,grey,Keith Millen
-29/12/2014,02/01/2015,West Bromwich Albion,caretaker,Rob Kelly
+29/12/2014,02/01/2015,West Bromwich Albion,permanent,Rob Kelly
 09/12/2010,31/12/2014,Newcastle United,permanent,Alan Pardew
 23/12/2014,30/12/2014,Brighton and Hove Albion,grey,Nathan Jones
 01/07/2014,30/12/2014,West Bromwich Albion,grey,Alan Irvine
 14/06/2014,29/12/2014,West Bromwich Albion,permanent,Alan Irvine
 27/08/2014,27/12/2014,Crystal Palace,permanent,Neil Warnock
-27/08/2014,27/12/2014,Crystal Palace,grey,Neil Warnock
+27/08/2014,27/12/2014,Crystal Palace,permanent,Neil Warnock
 01/07/2014,22/12/2014,Brighton and Hove Albion,grey,Sami Hyypiä
 26/03/2013,15/12/2014,Reading,permanent,Nigel Adkins
-26/03/2013,15/12/2014,Reading,grey,Nigel Adkins
+26/03/2013,15/12/2014,Reading,permanent,Nigel Adkins
 07/12/2013,13/11/2014,Wigan Athletic,grey,Uwe Rösler
 21/10/2014,31/10/2014,Birmingham City,grey,Richard Beale
 28/10/2014,29/10/2014,Blackpool,grey,Noel Blake
@@ -268,21 +268,21 @@ startDate,endDate,taskName,status,taskManager
 02/01/2014,18/09/2014,Cardiff City,permanent,Ole Gunnar Solskjaer
 02/01/2014,18/09/2014,Cardiff City,grey,Ole Gunnar Solskjær
 14/02/2014,18/09/2014,Fulham,permanent,Felix Magath
-14/02/2014,18/09/2014,Fulham,grey,Felix Magath
+14/02/2014,18/09/2014,Fulham,permanent,Felix Magath
 17/12/2013,31/08/2014,Watford,grey,Giuseppe Sannino
 19/06/2014,28/08/2014,Leeds United,grey,Dave Hockaday
-14/08/2014,27/08/2014,Crystal Palace,caretaker,Keith Millen
+14/08/2014,27/08/2014,Crystal Palace,permanent,Keith Millen
 15/08/2014,26/08/2014,Crystal Palace,grey,Keith Millen
 24/11/2013,14/08/2014,Crystal Palace,permanent,Tony Pulis
 23/11/2013,14/08/2014,Crystal Palace,grey,Tony Pulis
 22/01/2014,30/06/2014,Blackpool,grey,Barry Ferguson
 12/03/2014,30/06/2014,Charlton Athletic,grey,José Riga
 25/03/2014,30/06/2014,Nottingham Forest,grey,Gary Brazil
-18/01/2013,30/06/2014,Southampton,grey,Mauricio Pochettino
+18/01/2013,30/06/2014,Southampton,permanent,Mauricio Pochettino
 13/04/2013,31/05/2014,Leeds United,grey,Brian McDermott
 18/01/2013,27/05/2014,Southampton,permanent,Mauricio Pochettino
 16/12/2013,26/05/2014,Tottenham Hotspur,permanent,Tim Sherwood
-22/04/2014,19/05/2014,Manchester United,caretaker,Ryan Giggs
+22/04/2014,19/05/2014,Manchester United,permanent,Ryan Giggs
 01/07/2013,12/05/2014,Brighton and Hove Albion,grey,Óscar
 12/01/2014,12/05/2014,West Bromwich Albion,permanent,Pepe Mel
 09/01/2014,12/05/2014,West Bromwich Albion,grey,Pepe Mel
@@ -297,12 +297,12 @@ startDate,endDate,taskName,status,taskManager
 15/06/2012,04/02/2014,Swansea City,permanent,Michael Laudrup
 01/07/2012,04/02/2014,Swansea City,grey,Michael Laudrup
 18/02/2013,21/01/2014,Blackpool,grey,Paul Ince
-15/12/2013,12/01/2014,West Bromwich Albion,caretaker,Keith Downing
-15/12/2013,08/01/2014,West Bromwich Albion,grey,Keith Downing
-27/12/2013,02/01/2014,Cardiff City,caretaker,David Kerslake
+15/12/2013,12/01/2014,West Bromwich Albion,permanent,Keith Downing
+15/12/2013,08/01/2014,West Bromwich Albion,permanent,Keith Downing
+27/12/2013,02/01/2014,Cardiff City,permanent,David Kerslake
 28/12/2013,01/01/2014,Cardiff City,grey,David Kerslake
 17/06/2011,27/12/2013,Cardiff City,permanent,Malky Mackay
-17/06/2011,27/12/2013,Cardiff City,grey,Malky Mackay
+17/06/2011,27/12/2013,Cardiff City,permanent,Malky Mackay
 01/12/2013,16/12/2013,Barnsley,grey,Micky Mellon
 03/07/2012,16/12/2013,Tottenham Hotspur,permanent,André Villas-Boas
 01/07/2012,16/12/2013,Watford,grey,Gianfranco Zola
@@ -316,7 +316,7 @@ startDate,endDate,taskName,status,taskManager
 30/12/2012,30/11/2013,Barnsley,grey,David Flitcroft
 02/03/2012,30/11/2013,Sheffield Wednesday,grey,Dave Jones
 07/11/2012,25/11/2013,Portsmouth,grey,Guy Whittingham
-23/10/2013,24/11/2013,Crystal Palace,caretaker,Keith Millen
+23/10/2013,24/11/2013,Crystal Palace,permanent,Keith Millen
 24/10/2013,22/11/2013,Crystal Palace,grey,Keith Millen
 22/10/2013,12/11/2013,Middlesbrough,grey,Mark Venus
 05/11/2012,23/10/2013,Crystal Palace,permanent,Ian Holloway
@@ -325,7 +325,7 @@ startDate,endDate,taskName,status,taskManager
 12/10/2013,22/10/2013,Sheffield United,grey,Chris Morgan
 26/10/2010,21/10/2013,Middlesbrough,grey,Tony Mowbray
 01/07/2013,11/10/2013,Sheffield United,grey,David Weir
-22/09/2013,08/10/2013,Sunderland,caretaker,Kevin Ball
+22/09/2013,08/10/2013,Sunderland,permanent,Kevin Ball
 29/09/2013,01/10/2013,Derby County,grey,Darren Wassall
 06/01/2009,28/09/2013,Derby County,grey,Nigel Clough
 31/03/2013,22/09/2013,Sunderland,permanent,Paolo Di Canio
@@ -333,47 +333,47 @@ startDate,endDate,taskName,status,taskManager
 06/11/1986,01/07/2013,Manchester United,permanent,Alex Ferguson
 11/11/2009,30/06/2013,Brighton and Hove Albion,grey,Gustavo Poyet
 14/05/2013,30/06/2013,Manchester City,grey,Brian Kidd
-15/06/2006,30/06/2013,Stoke City,grey,Tony Pulis
+15/06/2006,30/06/2013,Stoke City,permanent,Tony Pulis
 01/07/2009,30/06/2013,Wigan Athletic,grey,Roberto Martínez
-13/05/2013,14/06/2013,Manchester City,caretaker,Brian Kidd
+13/05/2013,14/06/2013,Manchester City,permanent,Brian Kidd
 16/06/2009,05/06/2013,Wigan Athletic,permanent,Roberto Martínez
-21/11/2012,27/05/2013,Chelsea,caretaker,Rafael Benítez
+21/11/2012,27/05/2013,Chelsea,permanent,Rafael Benítez
 15/06/2006,21/05/2013,Stoke City,permanent,Tony Pulis
 20/12/2009,13/05/2013,Manchester City,permanent,Roberto Mancini
-20/12/2009,13/05/2013,Manchester City,grey,Roberto Mancini
+20/12/2009,13/05/2013,Manchester City,permanent,Roberto Mancini
 06/01/2013,07/05/2013,Wolverhampton Wanderers,grey,Dean Saunders
 02/04/2013,11/04/2013,Leeds United,grey,Neil Redfearn
 01/07/2011,10/04/2013,Sheffield United,grey,Danny Wilson
 18/02/2012,01/04/2013,Leeds United,grey,Neil Warnock
 05/12/2011,30/03/2013,Sunderland,permanent,Martin O'Neill
-12/03/2013,26/03/2013,Reading,caretaker,Eamonn Dolan
+12/03/2013,26/03/2013,Reading,permanent,Eamonn Dolan
 12/01/2013,19/03/2013,Blackburn Rovers,grey,Michael Appleton
 15/03/2013,17/03/2013,Reading,grey,Eamonn Dolan
 17/12/2009,11/03/2013,Reading,permanent,Brian McDermott
-17/12/2009,11/03/2013,Reading,grey,Brian McDermott
+17/12/2009,11/03/2013,Reading,permanent,Brian McDermott
 14/02/2013,07/03/2013,Coventry City,grey,Lee Carsley
 11/01/2013,17/02/2013,Blackpool,grey,Steve Thompson
 27/08/2012,12/02/2013,Coventry City,grey,Mark Robins
 05/02/2013,11/02/2013,Nottingham Forest,grey,Rob Kelly
 28/12/2012,05/02/2013,Nottingham Forest,grey,Alex McLeish
 12/09/2010,18/01/2013,Southampton,permanent,Nigel Adkins
-12/09/2010,17/01/2013,Southampton,grey,Nigel Adkins
+12/09/2010,17/01/2013,Southampton,permanent,Nigel Adkins
 28/12/2012,11/01/2013,Blackburn Rovers,grey,Gary Bowyer
 07/11/2012,10/01/2013,Blackpool,grey,Michael Appleton
 01/07/2012,05/01/2013,Wolverhampton Wanderers,grey,Ståle Solbakken
 01/07/2011,29/12/2012,Barnsley,grey,Keith Hill
 31/10/2012,27/12/2012,Blackburn Rovers,grey,Henning Berg
 19/07/2012,27/12/2012,Nottingham Forest,grey,Sean O'Driscoll
-23/11/2012,25/11/2012,Queens Park Rangers,caretaker,Mark Bowen
-23/11/2012,24/11/2012,Queens Park Rangers,grey,Mark Bowen
+23/11/2012,25/11/2012,Queens Park Rangers,permanent,Mark Bowen
+23/11/2012,24/11/2012,Queens Park Rangers,permanent,Mark Bowen
 10/01/2012,23/11/2012,Queens Park Rangers,permanent,Mark Hughes
-10/01/2012,22/11/2012,Queens Park Rangers,grey,Mark Hughes
+10/01/2012,22/11/2012,Queens Park Rangers,permanent,Mark Hughes
 04/03/2012,21/11/2012,Chelsea,permanent,Roberto Di Matteo
 10/11/2011,07/11/2012,Portsmouth,grey,Michael Appleton
 03/11/2012,06/11/2012,Blackpool,grey,Steve Thompson
 21/05/2009,03/11/2012,Blackpool,permanent,Ian Holloway
 23/10/2012,03/11/2012,Crystal Palace,grey,Lennie Lawrence
-21/05/2009,02/11/2012,Blackpool,grey,Ian Holloway
+21/05/2009,02/11/2012,Blackpool,permanent,Ian Holloway
 25/10/2012,31/10/2012,Ipswich Town,grey,Chris Hutchings
 29/09/2012,30/10/2012,Blackburn Rovers,grey,Eric Black
 16/10/2012,30/10/2012,Burnley,grey,Terry Pashley
@@ -383,7 +383,7 @@ startDate,endDate,taskName,status,taskManager
 03/10/2012,13/10/2012,Bournemouth,grey,Dennis Rofe
 16/01/2011,11/10/2012,Burnley,grey,Eddie Howe
 08/01/2010,09/10/2012,Bolton Wanderers,permanent,Owen Coyle
-08/01/2010,09/10/2012,Bolton Wanderers,grey,Owen Coyle
+08/01/2010,09/10/2012,Bolton Wanderers,permanent,Owen Coyle
 26/03/2012,03/10/2012,Bournemouth,grey,Paul Groves
 13/12/2010,28/09/2012,Blackburn Rovers,permanent,Steve Kean
 14/12/2010,28/09/2012,Blackburn Rovers,grey,Steve Kean
@@ -409,11 +409,11 @@ startDate,endDate,taskName,status,taskManager
 04/02/2011,29/02/2012,Sheffield Wednesday,grey,Gary Megson
 02/02/2012,17/02/2012,Leeds United,grey,Neil Redfearn
 21/07/2006,13/02/2012,Wolverhampton Wanderers,permanent,Mick McCarthy
-21/07/2006,13/02/2012,Wolverhampton Wanderers,grey,Mick McCarthy
+21/07/2006,13/02/2012,Wolverhampton Wanderers,permanent,Mick McCarthy
 23/12/2008,01/02/2012,Leeds United,grey,Simon Grayson
 02/03/2010,08/01/2012,Queens Park Rangers,permanent,Neil Warnock
-02/03/2010,08/01/2012,Queens Park Rangers,grey,Neil Warnock
-30/11/2011,05/12/2011,Sunderland,caretaker,Eric Black
+02/03/2010,08/01/2012,Queens Park Rangers,permanent,Neil Warnock
+30/11/2011,05/12/2011,Sunderland,permanent,Eric Black
 03/06/2009,30/11/2011,Sunderland,permanent,Steve Bruce
 01/07/2010,07/11/2011,Hull City,grey,Nigel Pearson
 25/10/2011,06/11/2011,Leicester City,grey,Michael Stowell
@@ -431,7 +431,7 @@ startDate,endDate,taskName,status,taskManager
 04/01/2009,12/06/2011,Nottingham Forest,grey,Billy Davies
 20/09/2010,02/06/2011,Aston Villa,permanent,Gérard Houllier
 29/07/2010,02/06/2011,Fulham,permanent,Mark Hughes
-16/05/2011,01/06/2011,West Ham United,caretaker,Kevin Keen
+16/05/2011,01/06/2011,West Ham United,permanent,Kevin Keen
 19/09/2010,31/05/2011,Aston Villa,grey,Gérard Houllier
 25/05/2005,30/05/2011,Cardiff City,grey,Dave Jones
 01/07/2009,23/05/2011,Chelsea,permanent,Carlo Ancelotti
@@ -439,8 +439,8 @@ startDate,endDate,taskName,status,taskManager
 01/01/2011,10/05/2011,Sheffield United,grey,Micky Adams
 20/05/2010,14/03/2011,Coventry City,grey,Aidy Boothroyd
 01/07/2010,24/02/2011,Bradford City,grey,Peter Taylor
-06/02/2011,14/02/2011,West Bromwich Albion,caretaker,Michael Appleton
-01/07/2009,07/02/2011,West Bromwich Albion,grey,Roberto Di Matteo
+06/02/2011,14/02/2011,West Bromwich Albion,permanent,Michael Appleton
+01/07/2009,07/02/2011,West Bromwich Albion,permanent,Roberto Di Matteo
 01/07/2009,06/02/2011,West Bromwich Albion,permanent,Roberto Di Matteo
 08/01/2010,03/02/2011,Sheffield Wednesday,grey,Alan Irvine
 02/01/2009,15/01/2011,Bournemouth,grey,Eddie Howe
@@ -452,7 +452,7 @@ startDate,endDate,taskName,status,taskManager
 17/06/2010,02/01/2011,Crystal Palace,grey,George Burley
 14/12/2010,31/12/2010,Sheffield United,grey,John Carver
 13/01/2010,29/12/2010,Burnley,permanent,Brian Laws
-13/01/2010,29/12/2010,Burnley,grey,Brian Laws
+13/01/2010,29/12/2010,Burnley,permanent,Brian Laws
 17/12/2008,13/12/2010,Blackburn Rovers,permanent,Sam Allardyce
 16/12/2008,13/12/2010,Blackburn Rovers,grey,Sam Allardyce
 17/08/2010,13/12/2010,Sheffield United,grey,Gary Speed
@@ -460,28 +460,28 @@ startDate,endDate,taskName,status,taskManager
 18/10/2010,25/10/2010,Middlesbrough,grey,Steve Agnew
 26/10/2009,18/10/2010,Middlesbrough,grey,Gordon Strachan
 07/07/2010,01/10/2010,Leicester City,grey,Paulo Sousa
-09/08/2010,20/09/2010,Aston Villa,caretaker,Kevin MacDonald
+09/08/2010,20/09/2010,Aston Villa,permanent,Kevin MacDonald
 10/08/2010,18/09/2010,Aston Villa,grey,Kevin MacDonald
 31/08/2010,11/09/2010,Southampton,grey,Dean Wilkins
 17/07/2009,30/08/2010,Southampton,grey,Alan Pardew
 14/02/2008,15/08/2010,Sheffield United,grey,Kevin Blackwell
 05/08/2006,09/08/2010,Aston Villa,permanent,Martin O'Neill
-05/08/2006,09/08/2010,Aston Villa,grey,Martin O'Neill
+05/08/2006,09/08/2010,Aston Villa,permanent,Martin O'Neill
 01/07/2009,04/07/2010,Swansea City,grey,Paulo Sousa
 30/12/2007,01/07/2010,Fulham,permanent,Roy Hodgson
 22/05/2007,30/06/2010,Bradford City,grey,Stuart McCall
 28/12/2007,30/06/2010,Fulham,grey,Roy Hodgson
-17/03/2010,30/06/2010,Hull City,grey,Iain Dowie
+17/03/2010,30/06/2010,Hull City,permanent,Iain Dowie
 01/07/2008,30/06/2010,Leicester City,grey,Nigel Pearson
-26/11/2009,30/06/2010,Portsmouth,grey,Avram Grant
-17/03/2010,29/06/2010,Hull City,caretaker,Iain Dowie
+26/11/2009,30/06/2010,Portsmouth,permanent,Avram Grant
+17/03/2010,29/06/2010,Hull City,permanent,Iain Dowie
 16/06/2004,03/06/2010,Liverpool,permanent,Rafael Benítez
 03/03/2010,31/05/2010,Crystal Palace,grey,Paul Hart
 26/11/2009,20/05/2010,Portsmouth,permanent,Avram Grant
 15/09/2008,11/05/2010,West Ham United,permanent,Gianfranco Zola
 19/02/2008,04/05/2010,Coventry City,grey,Chris Coleman
 04/12/2006,15/03/2010,Hull City,permanent,Phil Brown
-04/12/2006,15/03/2010,Hull City,grey,Phil Brown
+04/12/2006,15/03/2010,Hull City,permanent,Phil Brown
 11/10/2007,01/03/2010,Crystal Palace,grey,Neil Warnock
 15/01/2010,01/03/2010,Queens Park Rangers,grey,Mick Harford
 10/01/2010,31/01/2010,Burnley,grey,Martin Dobson
@@ -491,16 +491,16 @@ startDate,endDate,taskName,status,taskManager
 06/11/2006,07/01/2010,Sheffield Wednesday,grey,Brian Laws
 22/11/2007,06/01/2010,Burnley,permanent,Owen Coyle
 30/12/2009,05/01/2010,Bolton Wanderers,grey,Chris Evans
-22/11/2007,05/01/2010,Burnley,grey,Owen Coyle
+22/11/2007,05/01/2010,Burnley,permanent,Owen Coyle
 25/10/2007,30/12/2009,Bolton Wanderers,permanent,Gary Megson
-25/10/2007,30/12/2009,Bolton Wanderers,grey,Gary Megson
+25/10/2007,30/12/2009,Bolton Wanderers,permanent,Gary Megson
 04/06/2008,20/12/2009,Manchester City,permanent,Mark Hughes
 01/07/2008,19/12/2009,Manchester City,grey,Mark Hughes
 01/07/2009,17/12/2009,Reading,grey,Brendan Rodgers
 10/12/2009,16/12/2009,Queens Park Rangers,grey,Marc Bircham
 01/07/2009,09/12/2009,Queens Park Rangers,grey,Jim Magilton
 09/02/2009,24/11/2009,Portsmouth,permanent,Paul Hart
-09/02/2009,24/11/2009,Portsmouth,grey,Paul Hart
+09/02/2009,24/11/2009,Portsmouth,permanent,Paul Hart
 06/03/2009,10/11/2009,Brighton and Hove Albion,grey,Russell Slade
 22/10/2009,25/10/2009,Middlesbrough,grey,Colin Cooper
 07/06/2006,21/10/2009,Middlesbrough,permanent,Gareth Southgate
@@ -511,17 +511,17 @@ startDate,endDate,taskName,status,taskManager
 23/01/2009,09/07/2009,Southampton,grey,Mark Wotte
 09/04/2009,30/06/2009,Queens Park Rangers,grey,Gareth Ainsworth
 24/02/2007,30/06/2009,Swansea City,grey,Roberto Martínez
-18/10/2006,30/06/2009,West Bromwich Albion,grey,Tony Mowbray
-26/11/2007,30/06/2009,Wigan Athletic,grey,Steve Bruce
+18/10/2006,30/06/2009,West Bromwich Albion,permanent,Tony Mowbray
+26/11/2007,30/06/2009,Wigan Athletic,permanent,Steve Bruce
 24/11/2008,13/06/2009,Watford,grey,Brendan Rodgers
 18/10/2006,12/06/2009,West Bromwich Albion,permanent,Tony Mowbray
 26/11/2007,03/06/2009,Wigan Athletic,permanent,Steve Bruce
-16/02/2009,01/06/2009,Chelsea,caretaker,Guus Hiddink
-01/04/2009,30/05/2009,Newcastle United,caretaker,Alan Shearer
+16/02/2009,01/06/2009,Chelsea,permanent,Guus Hiddink
+01/04/2009,30/05/2009,Newcastle United,permanent,Alan Shearer
 04/12/2008,25/05/2009,Sunderland,permanent,Ricky Sbragia
 23/12/2008,18/05/2009,Blackpool,grey,Tony Parkes
 09/10/2003,13/05/2009,Reading,permanent,Steve Coppell
-09/10/2003,13/05/2009,Reading,grey,Steve Coppell
+09/10/2003,13/05/2009,Reading,permanent,Steve Coppell
 05/06/2006,22/04/2009,Ipswich Town,grey,Jim Magilton
 19/11/2008,08/04/2009,Queens Park Rangers,grey,Paulo Sousa
 28/09/2008,01/04/2009,Newcastle United,permanent,Joe Kinnear
@@ -534,7 +534,7 @@ startDate,endDate,taskName,status,taskManager
 28/12/2008,03/01/2009,Nottingham Forest,grey,John Pemberton
 02/09/2008,01/01/2009,Bournemouth,grey,Jimmy Quinn
 28/11/2007,29/12/2008,Derby County,permanent,Paul Jewell
-28/11/2007,29/12/2008,Derby County,grey,Paul Jewell
+28/11/2007,29/12/2008,Derby County,permanent,Paul Jewell
 01/06/2006,27/12/2008,Nottingham Forest,grey,Colin Calderwood
 29/11/2005,22/12/2008,Blackpool,grey,Simon Grayson
 29/01/2008,21/12/2008,Leeds United,grey,Gary McAllister
@@ -546,14 +546,14 @@ startDate,endDate,taskName,status,taskManager
 03/11/2008,23/11/2008,Watford,grey,Malky Mackay
 26/10/2008,18/11/2008,Queens Park Rangers,grey,Gareth Ainsworth
 29/03/2005,03/11/2008,Watford,permanent,Aidy Boothroyd
-29/03/2005,02/11/2008,Watford,grey,Aidy Boothroyd
-26/10/2008,28/10/2008,Portsmouth,caretaker,Joe Jordan
+29/03/2005,02/11/2008,Watford,permanent,Aidy Boothroyd
+26/10/2008,28/10/2008,Portsmouth,permanent,Joe Jordan
 07/12/2005,25/10/2008,Portsmouth,permanent,Harry Redknapp
-07/12/2005,25/10/2008,Portsmouth,grey,Harry Redknapp
+07/12/2005,25/10/2008,Portsmouth,permanent,Harry Redknapp
 14/05/2008,25/10/2008,Queens Park Rangers,grey,Iain Dowie
 29/10/2007,25/10/2008,Tottenham Hotspur,permanent,Juande Ramos
-04/09/2008,28/09/2008,Newcastle United,caretaker,Chris Hughton
-03/09/2008,14/09/2008,West Ham United,caretaker,Kevin Keen
+04/09/2008,28/09/2008,Newcastle United,permanent,Chris Hughton
+03/09/2008,14/09/2008,West Ham United,permanent,Kevin Keen
 17/01/2008,04/09/2008,Newcastle United,permanent,Kevin Keegan
 13/12/2006,03/09/2008,West Ham United,permanent,Alan Curbishley
 13/10/2006,01/09/2008,Bournemouth,grey,Kevin Bond
@@ -571,34 +571,34 @@ startDate,endDate,taskName,status,taskManager
 19/02/2007,10/02/2008,Coventry City,grey,Iain Dowie
 24/10/2006,28/01/2008,Leeds United,grey,Dennis Wise
 23/12/2005,24/01/2008,Southampton,grey,George Burley
-09/01/2008,17/01/2008,Newcastle United,caretaker,Nigel Pearson
+09/01/2008,17/01/2008,Newcastle United,permanent,Nigel Pearson
 15/05/2007,09/01/2008,Newcastle United,permanent,Sam Allardyce
-21/12/2007,30/12/2007,Fulham,caretaker,Billy McKinlay
-21/12/2007,30/12/2007,Fulham,caretaker,Ray Lewington
+21/12/2007,30/12/2007,Fulham,permanent,Billy McKinlay
+21/12/2007,30/12/2007,Fulham,permanent,Ray Lewington
 11/04/2007,21/12/2007,Fulham,permanent,Lawrie Sanchez
-11/04/2007,21/12/2007,Fulham,grey,Lawrie Sanchez
-19/11/2007,27/11/2007,Birmingham City,caretaker,Eric Black
+11/04/2007,21/12/2007,Fulham,permanent,Lawrie Sanchez
+19/11/2007,27/11/2007,Birmingham City,permanent,Eric Black
 02/06/2006,27/11/2007,Derby County,permanent,Billy Davies
-19/11/2007,26/11/2007,Birmingham City,grey,Eric Black
+19/11/2007,26/11/2007,Birmingham City,permanent,Eric Black
 01/07/2006,26/11/2007,Derby County,grey,Billy Davies
-05/11/2007,26/11/2007,Wigan Athletic,caretaker,Frank Barlow
+05/11/2007,26/11/2007,Wigan Athletic,permanent,Frank Barlow
 06/11/2007,25/11/2007,Wigan Athletic,grey,Frank Barlow
 12/12/2001,19/11/2007,Birmingham City,permanent,Steve Bruce
-12/12/2001,18/11/2007,Birmingham City,grey,Steve Bruce
+12/12/2001,18/11/2007,Birmingham City,permanent,Steve Bruce
 04/06/2004,08/11/2007,Burnley,grey,Steve Cotterill
 14/05/2007,05/11/2007,Wigan Athletic,permanent,Chris Hutchings
 15/05/2007,05/11/2007,Wigan Athletic,grey,Chris Hutchings
 10/10/2007,29/10/2007,Norwich City,grey,Jim Duffy
-26/10/2007,29/10/2007,Tottenham Hotspur,caretaker,Alex Inglethorpe
-26/10/2007,29/10/2007,Tottenham Hotspur,caretaker,Clive Allen
+26/10/2007,29/10/2007,Tottenham Hotspur,permanent,Alex Inglethorpe
+26/10/2007,29/10/2007,Tottenham Hotspur,permanent,Clive Allen
 01/10/2007,28/10/2007,Queens Park Rangers,grey,Mick Harford
 05/11/2004,26/10/2007,Tottenham Hotspur,permanent,Martin Jol
-18/10/2007,25/10/2007,Bolton Wanderers,caretaker,Archie Knox
-18/10/2007,25/10/2007,Bolton Wanderers,grey,Archie Knox
+18/10/2007,25/10/2007,Bolton Wanderers,permanent,Archie Knox
+18/10/2007,25/10/2007,Bolton Wanderers,permanent,Archie Knox
 17/10/2007,24/10/2007,Bolton Wanderers,grey,Ricky Sbragia
 13/09/2007,24/10/2007,Leicester City,grey,Gary Megson
 30/04/2007,17/10/2007,Bolton Wanderers,permanent,Sammy Lee
-30/04/2007,16/10/2007,Bolton Wanderers,grey,Sammy Lee
+30/04/2007,16/10/2007,Bolton Wanderers,permanent,Sammy Lee
 16/10/2006,10/10/2007,Norwich City,grey,Peter Grant
 01/07/2006,07/10/2007,Crystal Palace,grey,Peter Taylor
 20/09/2006,01/10/2007,Queens Park Rangers,grey,John Gregory
@@ -606,24 +606,24 @@ startDate,endDate,taskName,status,taskManager
 25/05/2007,29/08/2007,Leicester City,grey,Martin Allen
 11/04/2007,24/05/2007,Leicester City,grey,Nigel Worthington
 02/12/1999,16/05/2007,Sheffield United,permanent,Neil Warnock
-02/12/1999,16/05/2007,Sheffield United,grey,Neil Warnock
-06/05/2007,15/05/2007,Newcastle United,caretaker,Nigel Pearson
+02/12/1999,16/05/2007,Sheffield United,permanent,Neil Warnock
+06/05/2007,15/05/2007,Newcastle United,permanent,Nigel Pearson
 11/03/2005,14/05/2007,Manchester City,permanent,Stuart Pearce
 12/03/2005,14/05/2007,Manchester City,grey,Stuart Pearce
 12/06/2001,14/05/2007,Wigan Athletic,permanent,Paul Jewell
-12/06/2001,14/05/2007,Wigan Athletic,grey,Paul Jewell
+12/06/2001,14/05/2007,Wigan Athletic,permanent,Paul Jewell
 02/02/2006,06/05/2007,Newcastle United,permanent,Glenn Roeder
 19/10/1999,29/04/2007,Bolton Wanderers,permanent,Sam Allardyce
-19/10/1999,29/04/2007,Bolton Wanderers,grey,Sam Allardyce
+19/10/1999,29/04/2007,Bolton Wanderers,permanent,Sam Allardyce
 17/04/2003,11/04/2007,Fulham,permanent,Chris Coleman
-17/04/2003,10/04/2007,Fulham,grey,Chris Coleman
+17/04/2003,10/04/2007,Fulham,permanent,Chris Coleman
 25/01/2006,10/04/2007,Leicester City,grey,Rob Kelly
 15/02/2007,23/02/2007,Swansea City,grey,Kevin Nugent
 18/01/2007,18/02/2007,Coventry City,grey,Adrian Heath
 05/04/2004,14/02/2007,Swansea City,grey,Kenny Jackett
 01/07/2004,12/02/2007,Bradford City,grey,Colin Todd
 15/01/2005,17/01/2007,Coventry City,grey,Micky Adams
-14/11/2006,25/12/2006,Charlton Athletic,grey,Les Reed
+14/11/2006,25/12/2006,Charlton Athletic,permanent,Les Reed
 14/11/2006,24/12/2006,Charlton Athletic,permanent,Les Reed
 20/10/2003,11/12/2006,West Ham United,permanent,Alan Pardew
 01/07/2006,03/12/2006,Hull City,grey,Phil Parkinson
@@ -635,27 +635,27 @@ startDate,endDate,taskName,status,taskManager
 19/09/2006,17/10/2006,West Bromwich Albion,grey,Nigel Pearson
 02/10/2006,15/10/2006,Norwich City,grey,Martin Hunter
 04/12/2000,02/10/2006,Norwich City,permanent,Nigel Worthington
-04/12/2000,01/10/2006,Norwich City,grey,Nigel Worthington
+04/12/2000,01/10/2006,Norwich City,permanent,Nigel Worthington
 01/06/2004,20/09/2006,Leeds United,grey,Kevin Blackwell
 07/02/2006,19/09/2006,Queens Park Rangers,grey,Gary Waddock
 09/11/2004,18/09/2006,West Bromwich Albion,permanent,Bryan Robson
-09/11/2004,18/09/2006,West Bromwich Albion,grey,Bryan Robson
+09/11/2004,18/09/2006,West Bromwich Albion,permanent,Bryan Robson
 19/08/2000,08/09/2006,Bournemouth,grey,Sean O'Driscoll
 28/10/2003,08/09/2006,Brighton and Hove Albion,grey,Mark McGhee
 01/08/2003,19/07/2006,Aston Villa,permanent,David O'Leary
 20/05/2003,18/07/2006,Aston Villa,grey,David O'Leary
-22/12/2003,30/06/2006,Crystal Palace,grey,Iain Dowie
+22/12/2003,30/06/2006,Crystal Palace,permanent,Iain Dowie
 14/10/2002,30/06/2006,Hull City,grey,Peter Taylor
 28/10/2002,30/06/2006,Ipswich Town,grey,Joe Royle
 01/07/2001,30/06/2006,Middlesbrough,grey,Steve McClaren
 07/12/2004,30/06/2006,Wolverhampton Wanderers,grey,Glenn Hoddle
-07/03/2006,31/05/2006,Sunderland,caretaker,Kevin Ball
+07/03/2006,31/05/2006,Sunderland,permanent,Kevin Ball
 17/02/2006,30/05/2006,Nottingham Forest,grey,Frank Barlow
 17/02/2006,30/05/2006,Nottingham Forest,grey,Ian McParland
 22/12/2003,22/05/2006,Crystal Palace,permanent,Iain Dowie
 12/06/2001,11/05/2006,Middlesbrough,permanent,Steve McClaren
 24/07/1991,08/05/2006,Charlton Athletic,permanent,Alan Curbishley
-24/07/1991,08/05/2006,Charlton Athletic,grey,Alan Curbishley
+24/07/1991,08/05/2006,Charlton Athletic,permanent,Alan Curbishley
 01/07/2005,01/05/2006,Stoke City,grey,Jan Boskamp
 12/03/2003,06/03/2006,Sunderland,permanent,Mick McCarthy
 10/01/2005,16/02/2006,Nottingham Forest,grey,Gary Megson
@@ -665,11 +665,11 @@ startDate,endDate,taskName,status,taskManager
 01/11/2004,25/01/2006,Leicester City,grey,Craig Levein
 04/12/2005,22/12/2005,Southampton,grey,Dave Bassett
 24/11/2005,06/12/2005,Portsmouth,grey,Joe Jordan
-25/11/2005,04/12/2005,Portsmouth,caretaker,Joe Jordan
-08/12/2004,03/12/2005,Southampton,grey,Harry Redknapp
+25/11/2005,04/12/2005,Portsmouth,permanent,Joe Jordan
+08/12/2004,03/12/2005,Southampton,permanent,Harry Redknapp
 08/12/2004,02/12/2005,Southampton,permanent,Harry Redknapp
 07/04/2005,24/11/2005,Portsmouth,permanent,Alain Perrin
-07/04/2005,23/11/2005,Portsmouth,grey,Alain Perrin
+07/04/2005,23/11/2005,Portsmouth,permanent,Alain Perrin
 01/07/2001,30/06/2005,Bournemouth,grey,Shaun Brooks
 18/02/2002,30/06/2005,Cardiff City,grey,Lennie Lawrence
 01/11/2002,28/06/2005,Stoke City,grey,Tony Pulis
@@ -682,25 +682,25 @@ startDate,endDate,taskName,status,taskManager
 16/12/2004,10/01/2005,Nottingham Forest,grey,Mick Harford
 10/02/2004,16/12/2004,Nottingham Forest,grey,Joe Kinnear
 23/08/2004,08/12/2004,Southampton,permanent,Steve Wigley
-23/08/2004,07/12/2004,Southampton,grey,Steve Wigley
+23/08/2004,07/12/2004,Southampton,permanent,Steve Wigley
 25/03/2002,24/11/2004,Portsmouth,permanent,Harry Redknapp
-25/03/2002,24/11/2004,Portsmouth,grey,Harry Redknapp
-26/10/2004,09/11/2004,West Bromwich Albion,caretaker,Frank Burrows
+25/03/2002,24/11/2004,Portsmouth,permanent,Harry Redknapp
+26/10/2004,09/11/2004,West Bromwich Albion,permanent,Frank Burrows
 03/06/2004,05/11/2004,Tottenham Hotspur,permanent,Jacques Santini
 03/01/2001,01/11/2004,Wolverhampton Wanderers,permanent,Dave Jones
 11/10/2004,31/10/2004,Leicester City,grey,Dave Bassett
 04/01/2001,31/10/2004,Wolverhampton Wanderers,grey,Dave Jones
 09/03/2000,26/10/2004,West Bromwich Albion,permanent,Gary Megson
-09/03/2000,26/10/2004,West Bromwich Albion,grey,Gary Megson
+09/03/2000,26/10/2004,West Bromwich Albion,permanent,Gary Megson
 07/04/2002,11/10/2004,Leicester City,permanent,Mickey Adams
 01/11/2002,19/09/2004,Sheffield Wednesday,grey,Chris Turner
-06/09/2004,15/09/2004,Blackburn Rovers,caretaker,Tony Parkes
-31/08/2004,13/09/2004,Newcastle United,caretaker,John Carver
+06/09/2004,15/09/2004,Blackburn Rovers,permanent,Tony Parkes
+31/08/2004,13/09/2004,Newcastle United,permanent,John Carver
 14/03/2000,06/09/2004,Blackburn Rovers,permanent,Graeme Souness
-14/03/2000,06/09/2004,Blackburn Rovers,grey,Graeme Souness
+14/03/2000,06/09/2004,Blackburn Rovers,permanent,Graeme Souness
 02/09/1999,30/08/2004,Newcastle United,permanent,Bobby Robson
 04/03/2004,23/08/2004,Southampton,permanent,Paul Sturrock
-04/03/2004,23/08/2004,Southampton,grey,Paul Sturrock
+04/03/2004,23/08/2004,Southampton,permanent,Paul Sturrock
 01/07/2000,30/06/2004,Bolton Wanderers,grey,Neil McDonald
 01/07/2003,30/06/2004,Coventry City,grey,Eric Black
 11/11/2003,30/06/2004,Leeds United,grey,Eddie Gray
@@ -709,33 +709,33 @@ startDate,endDate,taskName,status,taskManager
 01/07/2002,30/06/2004,Swansea City,grey,Brian Flynn
 07/01/2000,06/06/2004,Blackpool,grey,Steve McMahon
 02/06/1998,03/06/2004,Burnley,grey,Stan Ternent
-21/09/2003,03/06/2004,Tottenham Hotspur,caretaker,David Pleat
+21/09/2003,03/06/2004,Tottenham Hotspur,permanent,David Pleat
 18/09/2000,31/05/2004,Chelsea,permanent,Claudio Ranieri
-10/11/2003,31/05/2004,Leeds United,caretaker,Eddie Gray
+10/11/2003,31/05/2004,Leeds United,permanent,Eddie Gray
 12/11/1998,31/05/2004,Liverpool,permanent,Gérard Houllier
 18/03/2004,04/04/2004,Swansea City,grey,Alan Curtis
 01/07/2003,04/03/2004,Barnsley,grey,Guðjón Þórðarson
-13/02/2004,04/03/2004,Southampton,caretaker,Steve Wigley
+13/02/2004,04/03/2004,Southampton,permanent,Steve Wigley
 22/10/2001,13/02/2004,Southampton,permanent,Gordon Strachan
-22/10/2001,13/02/2004,Southampton,grey,Gordon Strachan
+22/10/2001,13/02/2004,Southampton,permanent,Gordon Strachan
 01/07/2002,12/01/2004,Coventry City,grey,Gary McAllister
-21/03/2003,10/11/2003,Leeds United,grey,Peter Reid
+21/03/2003,10/11/2003,Leeds United,permanent,Peter Reid
 21/03/2003,09/11/2003,Leeds United,permanent,Peter Reid
-24/04/2003,20/10/2003,West Ham United,caretaker,Trevor Brooking
+24/04/2003,20/10/2003,West Ham United,permanent,Trevor Brooking
 07/10/2002,08/10/2003,Brighton and Hove Albion,grey,Steve Coppell
 10/09/2003,03/10/2003,Reading,grey,Kevin Dillon
 02/04/2001,21/09/2003,Tottenham Hotspur,permanent,Glenn Hoddle
 13/10/1999,10/09/2003,Reading,grey,Alan Pardew
 15/10/2002,30/06/2003,Barnsley,grey,Glyn Hodges
 05/02/2002,14/05/2003,Aston Villa,permanent,Graham Taylor
-05/02/2002,14/05/2003,Aston Villa,grey,Graham Taylor
+05/02/2002,14/05/2003,Aston Villa,permanent,Graham Taylor
 09/05/2001,24/04/2003,West Ham United,permanent,Glenn Roeder
 30/11/2001,18/04/2003,Crystal Palace,grey,Trevor Francis
 01/07/2000,17/04/2003,Fulham,permanent,Jean Tigana
-01/07/2000,16/04/2003,Fulham,grey,Jean Tigana
+01/07/2000,16/04/2003,Fulham,permanent,Jean Tigana
 21/03/2003,31/03/2003,Derby County,grey,Mark Lillis
 30/01/2002,21/03/2003,Derby County,permanent,John Gregory
-30/01/2002,21/03/2003,Derby County,grey,John Gregory
+30/01/2002,21/03/2003,Derby County,permanent,John Gregory
 01/07/2002,21/03/2003,Leeds United,permanent,Terry Venables
 08/07/2002,21/03/2003,Leeds United,grey,Terry Venables
 10/10/2002,10/03/2003,Sunderland,permanent,Howard Wilkinson
@@ -752,20 +752,20 @@ startDate,endDate,taskName,status,taskManager
 25/09/1998,06/06/2002,Leeds United,permanent,David O'Leary
 16/11/1999,15/05/2002,Stoke City,grey,Guðjón Þórðarson
 10/10/2001,07/04/2002,Leicester City,permanent,Dave Bassett
-10/10/2001,06/04/2002,Leicester City,grey,Dave Bassett
+10/10/2001,06/04/2002,Leicester City,permanent,Dave Bassett
 27/02/2001,25/03/2002,Portsmouth,grey,Graham Rix
 01/07/1998,12/03/2002,Everton,permanent,Walter Smith
 13/09/2001,07/03/2002,Swansea City,grey,Colin Addison
 01/04/2000,28/02/2002,Hull City,grey,Brian Little
-24/01/2002,05/02/2002,Aston Villa,caretaker,John Deehan
-24/01/2002,05/02/2002,Aston Villa,caretaker,Stuart Gray
+24/01/2002,05/02/2002,Aston Villa,permanent,John Deehan
+24/01/2002,05/02/2002,Aston Villa,permanent,Stuart Gray
 25/01/2002,04/02/2002,Aston Villa,grey,John Deehan
-28/01/2002,30/01/2002,Derby County,caretaker,Billy McEwan
+28/01/2002,30/01/2002,Derby County,permanent,Billy McEwan
 15/01/2002,29/01/2002,Derby County,grey,Billy McEwan
 25/02/1998,24/01/2002,Aston Villa,permanent,John Gregory
-25/02/1998,24/01/2002,Aston Villa,grey,John Gregory
+25/02/1998,24/01/2002,Aston Villa,permanent,John Gregory
 08/10/2001,14/01/2002,Derby County,permanent,Colin Todd
-08/10/2001,14/01/2002,Derby County,grey,Colin Todd
+08/10/2001,14/01/2002,Derby County,permanent,Colin Todd
 19/11/2000,24/12/2001,Bradford City,permanent,Jim Jefferies
 20/11/2000,24/12/2001,Bradford City,grey,Jim Jefferies
 15/10/2001,12/12/2001,Birmingham City,grey,Mick Mills
@@ -785,17 +785,17 @@ startDate,endDate,taskName,status,taskManager
 01/07/2000,30/06/2001,Cardiff City,grey,Bobby Gould
 01/07/1999,30/06/2001,Nottingham Forest,grey,David Platt
 01/07/1997,30/06/2001,Watford,grey,Graham Taylor
-06/12/2000,12/06/2001,Middlesbrough,grey,Terry Venables
+06/12/2000,12/06/2001,Middlesbrough,permanent,Terry Venables
 06/12/2000,01/06/2001,Middlesbrough,permanent,Terry Venables
 21/02/1996,01/06/2001,Watford,permanent,Graham Taylor
 01/07/2000,30/05/2001,Crystal Palace,grey,Alan Smith
 04/04/2001,29/05/2001,Wigan Athletic,grey,Steve Bruce
 18/02/1998,21/05/2001,Manchester City,permanent,Joe Royle
-18/02/1998,21/05/2001,Manchester City,grey,Joe Royle
+18/02/1998,21/05/2001,Manchester City,permanent,Joe Royle
 10/08/1994,09/05/2001,West Ham United,permanent,Harry Redknapp
-16/03/2001,01/04/2001,Tottenham Hotspur,caretaker,David Pleat
+16/03/2001,01/04/2001,Tottenham Hotspur,permanent,David Pleat
 28/01/2000,28/03/2001,Southampton,permanent,Glenn Hoddle
-28/01/2000,28/03/2001,Southampton,grey,Glenn Hoddle
+28/01/2000,28/03/2001,Southampton,permanent,Glenn Hoddle
 01/10/1998,16/03/2001,Tottenham Hotspur,permanent,George Graham
 26/06/2000,27/02/2001,Wigan Athletic,grey,Bruce Rioch
 11/10/2000,25/02/2001,Portsmouth,grey,Steve Claridge
@@ -808,24 +808,24 @@ startDate,endDate,taskName,status,taskManager
 31/05/1994,06/12/2000,Middlesbrough,permanent,Bryan Robson
 01/07/1994,05/12/2000,Middlesbrough,grey,Bryan Robson
 13/03/2000,03/12/2000,Norwich City,grey,Bryan Hamilton
-06/11/2000,19/11/2000,Bradford City,caretaker,Stuart McCall
+06/11/2000,19/11/2000,Bradford City,permanent,Stuart McCall
 18/06/2000,06/11/2000,Bradford City,permanent,Chris Hutchings
 13/01/2000,10/10/2000,Portsmouth,grey,Tony Pulis
-16/09/2000,18/09/2000,Chelsea,caretaker,Graeme Rix
-16/09/2000,18/09/2000,Chelsea,caretaker,Ray Wilkins
+16/09/2000,18/09/2000,Chelsea,permanent,Graeme Rix
+16/09/2000,18/09/2000,Chelsea,permanent,Ray Wilkins
 12/02/1998,16/09/2000,Chelsea,permanent,Gianluca Vialli
 01/07/1998,30/06/2000,Cardiff City,grey,Frank Burrows
 01/07/1999,30/06/2000,Crystal Palace,grey,Steve Coppell
-21/12/1995,30/06/2000,Leicester City,grey,Martin O'Neill
+21/12/1995,30/06/2000,Leicester City,permanent,Martin O'Neill
 01/07/1996,30/06/2000,Leicester City,grey,Paul Franklin
-21/03/2000,21/06/2000,Sheffield Wednesday,caretaker,Peter Shreeves
-21/03/2000,21/06/2000,Sheffield Wednesday,grey,Peter Shreeves
+21/03/2000,21/06/2000,Sheffield Wednesday,permanent,Peter Shreeves
+21/03/2000,21/06/2000,Sheffield Wednesday,permanent,Peter Shreeves
 06/01/1998,18/06/2000,Bradford City,permanent,Paul Jewell
 21/12/1995,01/06/2000,Leicester City,permanent,Martin O'Neill
 21/11/1998,31/03/2000,Hull City,grey,Warren Joyce
 01/07/1999,31/03/2000,West Bromwich Albion,grey,Brian Little
 06/07/1998,21/03/2000,Sheffield Wednesday,permanent,Danny Wilson
-06/07/1998,21/03/2000,Sheffield Wednesday,grey,Danny Wilson
+06/07/1998,21/03/2000,Sheffield Wednesday,permanent,Danny Wilson
 04/11/1999,13/03/2000,Blackburn Rovers,grey,Tony Parkes
 12/06/1998,13/03/2000,Norwich City,grey,Bruce Rioch
 01/07/1997,27/01/2000,Southampton,permanent,Dave Jones
@@ -839,7 +839,7 @@ startDate,endDate,taskName,status,taskManager
 01/01/1998,27/09/1999,West Bromwich Albion,grey,Denis Smith
 02/01/1996,22/09/1999,Bolton Wanderers,permanent,Colin Todd
 12/01/1996,22/09/1999,Bolton Wanderers,grey,Colin Todd
-29/08/1999,01/09/1999,Newcastle United,caretaker,Steve Clarke
+29/08/1999,01/09/1999,Newcastle United,permanent,Steve Clarke
 27/08/1998,28/08/1999,Newcastle United,permanent,Ruud Gullit
 27/07/1999,03/08/1999,West Bromwich Albion,grey,John Gorman
 07/05/1998,30/06/1999,Fulham,grey,Kevin Keegan
@@ -853,17 +853,17 @@ startDate,endDate,taskName,status,taskManager
 26/03/1998,10/03/1999,Queens Park Rangers,grey,Vinnie Jones
 26/02/1998,22/01/1999,Brighton and Hove Albion,grey,Brian Horton
 04/06/1998,15/01/1999,Crystal Palace,grey,Terry Venables
-05/01/1999,11/01/1999,Nottingham Forest,caretaker,Mickey Adams
+05/01/1999,11/01/1999,Nottingham Forest,permanent,Mickey Adams
 08/05/1997,05/01/1999,Nottingham Forest,permanent,Dave Bassett
-08/05/1997,05/01/1999,Nottingham Forest,grey,Dave Bassett
-22/11/1998,04/12/1998,Blackburn Rovers,caretaker,Tony Parkes
+08/05/1997,05/01/1999,Nottingham Forest,permanent,Dave Bassett
+22/11/1998,04/12/1998,Blackburn Rovers,permanent,Tony Parkes
 10/06/1997,22/11/1998,Blackburn Rovers,permanent,Roy Hodgson
 01/06/1997,21/11/1998,Blackburn Rovers,grey,Roy Hodgson
 01/07/1998,12/11/1998,Liverpool,permanent,Gérard Houllier
 29/01/1994,12/11/1998,Liverpool,permanent,Roy Evans
 13/12/1995,04/11/1998,Wolverhampton Wanderers,grey,Mark McGhee
 28/09/1998,16/10/1998,Queens Park Rangers,grey,Iain Dowie
-05/09/1998,01/10/1998,Tottenham Hotspur,caretaker,David Pleat
+05/09/1998,01/10/1998,Tottenham Hotspur,permanent,David Pleat
 10/09/1996,30/09/1998,Leeds United,grey,George Graham
 01/12/1997,30/09/1998,Queens Park Rangers,grey,Ray Harford
 09/09/1996,24/09/1998,Leeds United,permanent,George Graham
@@ -876,13 +876,13 @@ startDate,endDate,taskName,status,taskManager
 01/07/1996,30/06/1998,Norwich City,grey,Mike Walker
 14/11/1997,30/06/1998,Sheffield Wednesday,grey,Ron Atkinson
 01/11/1995,30/06/1998,Wigan Athletic,grey,John Deehan
-29/04/1998,31/05/1998,Crystal Palace,caretaker,Ray Lewington
-29/04/1998,31/05/1998,Crystal Palace,caretaker,Ron Noades
+29/04/1998,31/05/1998,Crystal Palace,permanent,Ray Lewington
+29/04/1998,31/05/1998,Crystal Palace,permanent,Ron Noades
 07/11/1997,17/05/1998,Sheffield Wednesday,permanent,Ron Atkinson
 01/07/1997,06/05/1998,Fulham,grey,Ray Wilkins
-13/03/1998,29/04/1998,Crystal Palace,caretaker,Attilio Lombardo
-13/03/1998,29/04/1998,Crystal Palace,grey,Attilio Lombardo
-13/03/1998,28/04/1998,Crystal Palace,caretaker,Tomas Brolin
+13/03/1998,29/04/1998,Crystal Palace,permanent,Attilio Lombardo
+13/03/1998,29/04/1998,Crystal Palace,permanent,Attilio Lombardo
+13/03/1998,28/04/1998,Crystal Palace,permanent,Tomas Brolin
 18/03/1998,25/03/1998,Reading,grey,Alan Pardew
 28/02/1997,13/03/1998,Crystal Palace,permanent,Steve Coppell
 01/07/1997,12/03/1998,Crystal Palace,grey,Steve Coppell
@@ -895,7 +895,7 @@ startDate,endDate,taskName,status,taskManager
 01/08/1995,13/01/1998,Portsmouth,grey,Terry Fenwick
 16/09/1996,15/12/1997,Queens Park Rangers,grey,Stewart Houston
 01/02/1997,30/11/1997,West Bromwich Albion,grey,Ray Harford
-19/11/1997,26/11/1997,Tottenham Hotspur,caretaker,Chris Hughton
+19/11/1997,26/11/1997,Tottenham Hotspur,permanent,Chris Hughton
 15/11/1994,19/11/1997,Tottenham Hotspur,permanent,Gerry Francis
 14/06/1995,03/11/1997,Sheffield Wednesday,permanent,David Pleat
 01/07/1995,03/11/1997,Sheffield Wednesday,grey,David Pleat
@@ -908,19 +908,19 @@ startDate,endDate,taskName,status,taskManager
 01/10/1994,30/06/1997,Stoke City,grey,Lou Macari
 01/07/1996,30/06/1997,Watford,grey,Kenny Jackett
 01/12/1995,26/06/1997,Sheffield United,grey,Howard Kendall
-25/10/1996,01/06/1997,Blackburn Rovers,caretaker,Tony Parkes
-01/04/1997,31/05/1997,Everton,caretaker,Dave Watson
-23/12/1996,08/05/1997,Nottingham Forest,caretaker,Stuart Pearce
+25/10/1996,01/06/1997,Blackburn Rovers,permanent,Tony Parkes
+01/04/1997,31/05/1997,Everton,permanent,Dave Watson
+23/12/1996,08/05/1997,Nottingham Forest,permanent,Stuart Pearce
 10/11/1994,27/03/1997,Everton,permanent,Joe Royle
 08/02/1996,27/02/1997,Crystal Palace,grey,Dave Bassett
 20/10/1994,22/01/1997,West Bromwich Albion,grey,Alan Buckley
-09/01/1997,13/01/1997,Newcastle United,caretaker,Terry McDermott
+09/01/1997,13/01/1997,Newcastle United,permanent,Terry McDermott
 05/02/1992,08/01/1997,Newcastle United,permanent,Kevin Keegan
 09/11/1996,28/12/1996,Manchester City,grey,Phil Neal
 01/07/1993,18/12/1996,Nottingham Forest,permanent,Frank Clark
 15/02/1995,15/11/1996,Coventry City,permanent,Ron Atkinson
 07/10/1996,08/11/1996,Manchester City,grey,Steve Coppell
-15/02/1995,05/11/1996,Coventry City,grey,Ron Atkinson
+15/02/1995,05/11/1996,Coventry City,permanent,Ron Atkinson
 25/06/1995,25/10/1996,Blackburn Rovers,permanent,Ray Harford
 01/07/1995,25/10/1996,Blackburn Rovers,grey,Ray Harford
 26/08/1996,07/10/1996,Manchester City,grey,Asa Hartford
