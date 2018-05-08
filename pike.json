@@ -1,0 +1,282 @@
+[
+  {
+    "date": "01/01/2003",
+    "value": 0.6,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2004",
+    "value": 0.62,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2005",
+    "value": 0.44,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2006",
+    "value": 0.506,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2007",
+    "value": 0.778,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2008",
+    "value": 0.84,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2009",
+    "value": 0.61,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2010",
+    "value": 0.7,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2011",
+    "value": 0.88,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2012",
+    "value": 0.79,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2013",
+    "value": 0.74,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2014",
+    "value": 0.78,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2015",
+    "value": 0.76,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2016",
+    "value": 0.78,
+    "facet": "Central Africa (3096 carcasses)"
+  },
+  {
+    "date": "01/01/2003",
+    "value": 0.22,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2004",
+    "value": 0.3,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2005",
+    "value": 0.2,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2006",
+    "value": 0.19,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2007",
+    "value": 0.23,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2008",
+    "value": 0.44,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2009",
+    "value": 0.21,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2010",
+    "value": 0.47,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2011",
+    "value": 0.6,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2012",
+    "value": 0.57,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2013",
+    "value": 0.53,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2014",
+    "value": 0.46,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2015",
+    "value": 0.416,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2016",
+    "value": 0.34,
+    "facet": "Eastern Africa (7304 carcasses)"
+  },
+  {
+    "date": "01/01/2003",
+    "value": 0.27,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2004",
+    "value": 0.28,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2005",
+    "value": 0.275,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2006",
+    "value": 0.34,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2007",
+    "value": 0.34,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2008",
+    "value": 0.36,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2009",
+    "value": 0.42,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2010",
+    "value": 0.37,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2011",
+    "value": 0.49,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2012",
+    "value": 0.4,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2013",
+    "value": 0.38,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2014",
+    "value": 0.4,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2015",
+    "value": 0.42,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2016",
+    "value": 0.41,
+    "facet": "Southern Africa (5073 carcasses)"
+  },
+  {
+    "date": "01/01/2003",
+    "value": 0.22,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2004",
+    "value": 0.38,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2005",
+    "value": 0.34,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2006",
+    "value": 0,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2007",
+    "value": 0.87,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2008",
+    "value": 0.82,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2009",
+    "value": 0.78,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2010",
+    "value": 0.13,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2011",
+    "value": 0.83,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2012",
+    "value": 0.87,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2013",
+    "value": 0.64,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2014",
+    "value": 0.83,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2015",
+    "value": 0.88,
+    "facet": "West Africa (697 carcasses)"
+  },
+  {
+    "date": "01/01/2016",
+    "value": 0.86,
+    "facet": "West Africa (697 carcasses)"
+  }
+]
