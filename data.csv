@@ -1,925 +1,1003 @@
-startDate,endDate,taskName,status,taskManager
-10/25/1996,06/01/1997,Blackburn Rovers,Caretaker,Tony Parkes
-12/23/1996,05/08/1997,Nottingham Forest,Caretaker,Stuart Pearce
-09/05/1998,10/01/1998,Tottenham Hotspur,Caretaker,David Pleat
-11/22/1998,12/04/1998,Blackburn Rovers,Caretaker,Tony Parkes
-08/29/1999,09/01/1999,Newcastle United,Caretaker,Steve Clarke
-01/05/1999,01/11/1999,Nottingham Forest,Caretaker,Mickey Adams
-03/16/2001,04/01/2001,Tottenham Hotspur,Caretaker,David Pleat
-01/24/2002,02/05/2002,Aston Villa,Caretaker,Stuart Gray
-01/24/2002,02/05/2002,Aston Villa,Caretaker,John Deehan
-09/21/2003,06/03/2004,Tottenham Hotspur,Caretaker,David Pleat
-02/13/2004,03/04/2004,Southampton,Caretaker,Steve Wigley
-10/26/2004,11/09/2004,West Bromwich Albion,Caretaker,Frank Burrows
-11/25/2005,12/04/2005,Portsmouth,Caretaker,Joe Jordan
-02/16/2009,06/01/2009,Chelsea,Caretaker,Guus Hiddink
-05/16/2011,06/01/2011,West Ham United,Caretaker,Kevin Keen
-11/30/2011,12/05/2011,Sunderland,Caretaker,Eric Black
-09/22/2013,10/08/2013,Sunderland,Caretaker,Kevin Ball
-12/27/2013,01/02/2014,Cardiff City,Caretaker,David Kerslake
-12/15/2013,01/12/2014,West Bromwich Albion,Caretaker,Keith Downing
-12/29/2014,01/02/2015,West Bromwich Albion,Caretaker,Rob Kelly
-12/27/2014,01/03/2015,Crystal Palace,Caretaker,Keith Millen
-10/25/2015,11/03/2015,Aston Villa,Caretaker,Kevin MacDonald
-04/06/2014,01/05/2015,Norwich City,Caretaker,Neil Adams
-12/31/2014,06/09/2015,Newcastle United,Caretaker,John Carver
-03/30/2016,06/02/2016,Aston Villa,Caretaker,Eric Black
-12/30/2016,01/03/2017,Swansea City,Caretaker,Alan Curtis
-03/16/2017,06/09/2017,Middlesbrough,Caretaker,Steve Agnew
-01/09/1997,01/13/1997,Newcastle United,Caretaker,Terry McDermott
-01/08/2018,01/16/2018,Stoke City,Caretaker,Eddie Niedzwiecki
-01/09/2008,01/17/2008,Newcastle United,Caretaker,Nigel Pearson
-12/11/2015,01/19/2016,Swansea City,Caretaker,Alan Curtis
-01/28/2002,01/30/2002,Derby County,Caretaker,Billy McEwan
-04/24/2003,10/20/2003,West Ham United,Caretaker,Trevor Brooking
-10/17/2017,10/25/2017,Leicester City,Caretaker,Michael Appleton
-10/18/2007,10/25/2007,Bolton Wanderers,Caretaker,Archie Knox
-10/26/2008,10/28/2008,Portsmouth,Caretaker,Joe Jordan
-10/26/2007,10/29/2007,Tottenham Hotspur,Caretaker,Alex Inglethorpe
-10/26/2007,10/29/2007,Tottenham Hotspur,Caretaker,Clive Allen
-11/06/2000,11/19/2000,Bradford City,Caretaker,Stuart McCall
-10/23/2013,11/24/2013,Crystal Palace,Caretaker,Keith Millen
-11/23/2012,11/25/2012,Queens Park Rangers,Caretaker,Mark Bowen
-11/19/1997,11/26/1997,Tottenham Hotspur,Caretaker,Chris Hughton
-11/05/2007,11/26/2007,Wigan Athletic,Caretaker,Frank Barlow
-11/19/2007,11/27/2007,Birmingham City,Caretaker,Eric Black
-11/20/2017,11/29/2017,West Bromwich Albion,Caretaker,Gary Megson
-10/24/2017,11/30/2017,Everton,Caretaker,David Unsworth
-12/18/2015,12/20/2015,Chelsea,Caretaker,Steve Holland
-12/18/2015,12/20/2015,Chelsea,Caretaker,Eddie Newton
-12/22/2017,12/28/2017,Swansea City,Caretaker,Leon Britton
-12/21/2007,12/30/2007,Fulham,Caretaker,Ray Lewington
-12/21/2007,12/30/2007,Fulham,Caretaker,Billy McKinlay
-02/03/2015,02/13/2015,Queens Park Rangers,Caretaker,Kevin Bond
-02/06/2011,02/14/2011,West Bromwich Albion,Caretaker,Michael Appleton
-03/12/2013,03/26/2013,Reading,Caretaker,Eamonn Dolan
-03/13/1998,04/28/1998,Crystal Palace,Caretaker,Tomas Brolin
-03/13/1998,04/29/1998,Crystal Palace,Caretaker,Attilio Lombardo
-05/06/2007,05/15/2007,Newcastle United,Caretaker,Nigel Pearson
-04/22/2014,05/19/2014,Manchester United,Caretaker,Ryan Giggs
-11/21/2012,05/27/2013,Chelsea,Caretaker,Rafael BenÃ­tez
-04/01/2009,05/30/2009,Newcastle United,Caretaker,Alan Shearer
-04/01/1997,05/31/1997,Everton,Caretaker,Dave Watson
-04/29/1998,05/31/1998,Crystal Palace,Caretaker,Ron Noades
-04/29/1998,05/31/1998,Crystal Palace,Caretaker,Ray Lewington
-11/10/2003,05/31/2004,Leeds United,Caretaker,Eddie Gray
-03/07/2006,05/31/2006,Sunderland,Caretaker,Kevin Ball
-05/13/2013,06/14/2013,Manchester City,Caretaker,Brian Kidd
-05/12/2016,06/14/2016,Everton,Caretaker,David Unsworth
-05/12/2016,06/14/2016,Everton,Caretaker,Joe Royle
-03/21/2000,06/21/2000,Sheffield Wednesday,Caretaker,Peter Shreeves
-03/17/2010,06/29/2010,Hull City,Caretaker,Iain Dowie
-12/20/2015,06/30/2016,Chelsea,Caretaker,Guus Hiddink
-08/14/2014,08/27/2014,Crystal Palace,Caretaker,Keith Millen
-08/31/2004,09/13/2004,Newcastle United,Caretaker,John Carver
-09/03/2008,09/14/2008,West Ham United,Caretaker,Kevin Keen
-09/06/2004,09/15/2004,Blackburn Rovers,Caretaker,Tony Parkes
-09/16/2000,09/18/2000,Chelsea,Caretaker,Ray Wilkins
-09/16/2000,09/18/2000,Chelsea,Caretaker,Graeme Rix
-08/09/2010,09/20/2010,Aston Villa,Caretaker,Kevin MacDonald
-09/04/2008,09/28/2008,Newcastle United,Caretaker,Chris Hughton
-06/01/1996,07/01/1997,Southampton,Permanent,Graeme Souness
-06/14/1995,11/03/1997,Sheffield Wednesday,Permanent,David Pleat
-02/05/1992,01/08/1997,Newcastle United,Permanent,Kevin Keegan
-06/27/1997,07/01/1998,Everton,Permanent,Howard Kendall
-11/26/1997,09/05/1998,Tottenham Hotspur,Permanent,Christian Gross
-06/02/1994,07/07/1998,Barnsley,Permanent,Danny Wilson
-05/10/1996,02/12/1998,Chelsea,Permanent,Ruud Gullit
-01/29/1994,11/12/1998,Liverpool,Permanent,Roy Evans
-07/01/1998,11/12/1998,Liverpool,Permanent,GÃ©rard Houllier
-01/12/1999,06/01/1999,Nottingham Forest,Permanent,Ron Atkinson
-12/04/1998,11/03/1999,Blackburn Rovers,Permanent,Brian Kidd
-05/08/1997,01/05/1999,Nottingham Forest,Permanent,Dave Bassett
-12/21/1995,06/01/2000,Leicester City,Permanent,Martin O'Neill
-06/06/1999,06/06/2000,Wimbledon,Permanent,Egil Roger Olsen
-06/18/2000,11/06/2000,Bradford City,Permanent,Chris Hutchings
-05/31/1994,12/06/2000,Middlesbrough,Permanent,Bryan Robson
-02/21/1996,06/01/2001,Watford,Permanent,Graham Taylor
-12/06/2000,06/01/2001,Middlesbrough,Permanent,Terry Venables
-06/15/1995,10/07/2001,Derby County,Permanent,Jim Smith
-08/10/1994,05/09/2001,West Ham United,Permanent,Harry Redknapp
-11/15/1996,09/11/2001,Coventry City,Permanent,Gordon Strachan
-09/25/1998,06/06/2002,Leeds United,Permanent,David O'Leary
-10/10/2001,04/07/2002,Leicester City,Permanent,Dave Bassett
-03/29/1995,10/07/2002,Sunderland,Permanent,Peter Reid
-12/27/1994,10/11/2002,Ipswich Town,Permanent,George Burley
-07/01/1998,03/12/2002,Everton,Permanent,Walter Smith
-03/21/2003,11/09/2003,Leeds United,Permanent,Peter Reid
-10/10/2002,03/10/2003,Sunderland,Permanent,Howard Wilkinson
-01/03/2001,11/01/2004,Wolverhampton Wanderers,Permanent,Dave Jones
-06/03/2004,11/05/2004,Tottenham Hotspur,Permanent,Jacques Santini
-03/14/2000,09/06/2004,Blackburn Rovers,Permanent,Graeme Souness
-08/23/2004,12/08/2004,Southampton,Permanent,Steve Wigley
-04/07/2002,10/11/2004,Leicester City,Permanent,Mickey Adams
-12/08/2004,12/02/2005,Southampton,Permanent,Harry Redknapp
-11/24/2004,04/07/2005,Portsmouth,Permanent,Velimir Zajec
-05/24/2001,03/11/2005,Manchester City,Permanent,Kevin Keegan
-09/13/2004,02/02/2006,Newcastle United,Permanent,Graeme Souness
-12/04/2000,10/02/2006,Norwich City,Permanent,Nigel Worthington
-03/12/2003,03/06/2006,Sunderland,Permanent,Mick McCarthy
-07/24/1991,05/08/2006,Charlton Athletic,Permanent,Alan Curbishley
-06/12/2001,05/11/2006,Middlesbrough,Permanent,Steve McClaren
-10/20/2003,12/11/2006,West Ham United,Permanent,Alan Pardew
-05/14/2007,11/05/2007,Wigan Athletic,Permanent,Chris Hutchings
-02/02/2006,05/06/2007,Newcastle United,Permanent,Glenn Roeder
-04/17/2003,04/11/2007,Fulham,Permanent,Chris Coleman
-07/01/2007,06/02/2008,Manchester City,Permanent,Sven-GÃ¶ran Eriksson
-12/13/2006,09/03/2008,West Ham United,Permanent,Alan Curbishley
-03/29/2005,11/03/2008,Watford,Permanent,Aidy Boothroyd
-09/16/2004,06/04/2008,Blackburn Rovers,Permanent,Mark Hughes
-01/17/2008,09/04/2008,Newcastle United,Permanent,Kevin Keegan
-08/28/2006,12/04/2008,Sunderland,Permanent,Roy Keane
-05/15/2007,01/09/2008,Newcastle United,Permanent,Sam Allardyce
-09/28/2008,04/01/2009,Newcastle United,Permanent,Joe Kinnear
-11/26/2007,06/03/2009,Wigan Athletic,Permanent,Steve Bruce
-07/01/2008,02/09/2009,Chelsea,Permanent,Felipe Scolari
-10/26/2008,02/09/2009,Portsmouth,Permanent,Tony Adams
-10/18/2006,06/12/2009,West Bromwich Albion,Permanent,Tony Mowbray
-12/30/2007,07/01/2010,Fulham,Permanent,Roy Hodgson
-06/16/2004,06/03/2010,Liverpool,Permanent,Rafael BenÃ­tez
-11/22/2007,01/06/2010,Burnley,Permanent,Owen Coyle
-06/01/2009,12/06/2010,Newcastle United,Permanent,Chris Hughton
-08/05/2006,08/09/2010,Aston Villa,Permanent,Martin O'Neill
-09/15/2008,05/11/2010,West Ham United,Permanent,Gianfranco Zola
-07/29/2010,06/02/2011,Fulham,Permanent,Mark Hughes
-09/20/2010,06/02/2011,Aston Villa,Permanent,GÃ©rard Houllier
-07/01/2009,02/06/2011,West Bromwich Albion,Permanent,Roberto Di Matteo
-07/01/2010,01/08/2011,Liverpool,Permanent,Roy Hodgson
-11/28/2007,06/12/2011,Birmingham City,Permanent,Alex McLeish
-07/14/2010,06/01/2012,Swansea City,Permanent,Brendan Rodgers
-08/18/2009,06/02/2012,Norwich City,Permanent,Paul Lambert
-05/21/2009,11/03/2012,Blackpool,Permanent,Ian Holloway
-06/22/2011,03/04/2012,Chelsea,Permanent,AndrÃ© Villas-Boas
-03/02/2010,01/08/2012,Queens Park Rangers,Permanent,Neil Warnock
-01/08/2010,10/09/2012,Bolton Wanderers,Permanent,Owen Coyle
-11/06/1986,07/01/2013,Manchester United,Permanent,Alex Ferguson
-03/14/2002,07/01/2013,Everton,Permanent,David Moyes
-06/07/2011,12/01/2013,Fulham,Permanent,Martin Jol
-06/16/2009,06/05/2013,Wigan Athletic,Permanent,Roberto MartÃ­nez
-12/17/2009,03/11/2013,Reading,Permanent,Brian McDermott
-06/15/2012,02/04/2014,Swansea City,Permanent,Michael Laudrup
-06/07/2012,04/06/2014,Norwich City,Permanent,Chris Hughton
-01/12/2014,05/12/2014,West Bromwich Albion,Permanent,Pepe Mel
-11/25/2012,02/03/2015,Queens Park Rangers,Permanent,Harry Redknapp
-03/17/2015,10/04/2015,Sunderland,Permanent,Dick Advocaat
-02/03/2015,11/04/2015,Queens Park Rangers,Permanent,Chris Ramsey
-06/01/2012,10/05/2015,Liverpool,Permanent,Brendan Rodgers
-02/04/2014,12/09/2015,Swansea City,Permanent,Garry Monk
-06/02/2012,02/11/2015,Aston Villa,Permanent,Paul Lambert
-01/19/2016,10/03/2016,Swansea City,Permanent,Francesco Guidolin
-06/11/2015,03/11/2016,Newcastle United,Permanent,Steve McClaren
-06/05/2013,05/12/2016,Everton,Permanent,Roberto MartÃ­nez
-07/22/2016,01/03/2017,Hull City,Permanent,Mike Phelan
-06/09/2015,11/06/2017,West Ham United,Permanent,Slaven Bilic
-01/09/2015,03/10/2017,Norwich City,Permanent,Alex Neil
-06/26/2017,09/11/2017,Crystal Palace,Permanent,Frank de Boer
-05/30/2013,01/07/2018,Stoke City,Permanent,Mark Hughes
-06/23/2017,03/12/2018,Southampton,Permanent,Mauricio Pellegrino
-10/01/1996,04/23/2018,Arsenal,Permanent,ArsÃ¨ne Wenger
-10/11/2012,04/23/2018,Bournemouth,Permanent,Eddie Howe
-10/30/2012,04/23/2018,Burnley,Permanent,Sean Dyche
-05/27/2014,04/23/2018,Tottenham Hotspur,Permanent,Mauricio Pochettino
-12/31/2014,04/23/2018,Brighton and Hove Albion,Permanent,Chris Hughton
-10/08/2015,04/23/2018,Liverpool,Permanent,JÃ¼rgen Klopp
-03/11/2016,04/23/2018,Newcastle United,Permanent,Rafael BenÃ­tez
-05/27/2016,04/23/2018,Manchester United,Permanent,JosÃ© Mourinho
-07/01/2016,04/23/2018,Chelsea,Permanent,Antonio Conte
-07/01/2016,04/23/2018,Manchester City,Permanent,Josep Guardiola
-10/08/2001,01/14/2002,Derby County,Permanent,Colin Todd
-09/12/2010,01/18/2013,Southampton,Permanent,Nigel Adkins
-05/28/2017,01/21/2018,Watford,Permanent,Marco Silva
-02/25/1998,01/24/2002,Aston Villa,Permanent,John Gregory
-07/01/1997,01/27/2000,Southampton,Permanent,Dave Jones
-02/23/2017,10/17/2017,Leicester City,Permanent,Craig Shakespeare
-04/30/2007,10/17/2007,Bolton Wanderers,Permanent,Sammy Lee
-03/16/2001,10/21/2001,Southampton,Permanent,Stuart Gray
-06/07/2006,10/21/2009,Middlesbrough,Permanent,Gareth Southgate
-06/14/2016,10/23/2017,Everton,Permanent,Ronald Koeman
-11/05/2012,10/23/2013,Crystal Palace,Permanent,Ian Holloway
-06/25/1995,10/25/1996,Blackburn Rovers,Permanent,Ray Harford
-12/07/2005,10/25/2008,Portsmouth,Permanent,Harry Redknapp
-10/29/2007,10/25/2008,Tottenham Hotspur,Permanent,Juande Ramos
-02/16/2015,10/25/2015,Aston Villa,Permanent,Tim Sherwood
-03/09/2000,10/26/2004,West Bromwich Albion,Permanent,Gary Megson
-11/05/2004,10/26/2007,Tottenham Hotspur,Permanent,Martin Jol
-05/30/2006,11/13/2006,Charlton Athletic,Permanent,Iain Dowie
-02/15/1995,11/15/1996,Coventry City,Permanent,Ron Atkinson
-11/15/1994,11/19/1997,Tottenham Hotspur,Permanent,Gerry Francis
-12/12/2001,11/19/2007,Birmingham City,Permanent,Steve Bruce
-01/02/2015,11/20/2017,West Bromwich Albion,Permanent,Tony Pulis
-03/04/2012,11/21/2012,Chelsea,Permanent,Roberto Di Matteo
-06/10/1997,11/22/1998,Blackburn Rovers,Permanent,Roy Hodgson
-12/24/2006,11/23/2008,Charlton Athletic,Permanent,Alan Pardew
-01/10/2012,11/23/2012,Queens Park Rangers,Permanent,Mark Hughes
-03/25/2002,11/24/2004,Portsmouth,Permanent,Harry Redknapp
-04/07/2005,11/24/2005,Portsmouth,Permanent,Alain Perrin
-02/09/2009,11/24/2009,Portsmouth,Permanent,Paul Hart
-06/02/2006,11/27/2007,Derby County,Permanent,Billy Davies
-06/03/2009,11/30/2011,Sunderland,Permanent,Steve Bruce
-12/17/2008,12/13/2010,Blackburn Rovers,Permanent,Sam Allardyce
-06/08/2012,12/15/2013,West Bromwich Albion,Permanent,Steve Clarke
-03/26/2013,12/15/2014,Reading,Permanent,Nigel Adkins
-06/22/2008,12/16/2008,Blackburn Rovers,Permanent,Paul Ince
-07/03/2012,12/16/2013,Tottenham Hotspur,Permanent,AndrÃ© Villas-Boas
-06/03/2013,12/17/2015,Chelsea,Permanent,JosÃ© Mourinho
-07/01/1993,12/18/1996,Nottingham Forest,Permanent,Frank Clark
-01/03/2017,12/20/2017,Swansea City,Permanent,Paul Clement
-06/04/2008,12/20/2009,Manchester City,Permanent,Mark Hughes
-04/11/2007,12/21/2007,Fulham,Permanent,Lawrie Sanchez
-01/03/2015,12/22/2016,Crystal Palace,Permanent,Alan Pardew
-11/19/2000,12/24/2001,Bradford City,Permanent,Jim Jefferies
-11/14/2006,12/24/2006,Charlton Athletic,Permanent,Les Reed
-06/17/2011,12/27/2013,Cardiff City,Permanent,Malky Mackay
-08/27/2014,12/27/2014,Crystal Palace,Permanent,Neil Warnock
-10/04/2016,12/27/2016,Swansea City,Permanent,Bob Bradley
-11/28/2007,12/29/2008,Derby County,Permanent,Paul Jewell
-01/13/2010,12/29/2010,Burnley,Permanent,Brian Laws
-06/14/2014,12/29/2014,West Bromwich Albion,Permanent,Alan Irvine
-10/25/2007,12/30/2009,Bolton Wanderers,Permanent,Gary Megson
-12/09/2010,12/31/2014,Newcastle United,Permanent,Alan Pardew
-10/22/2001,02/13/2004,Southampton,Permanent,Gordon Strachan
-07/21/2006,02/13/2012,Wolverhampton Wanderers,Permanent,Mick McCarthy
-12/01/2013,02/14/2014,Fulham,Permanent,Rene Meulensteen
-07/13/2015,02/23/2017,Leicester City,Permanent,Claudio Ranieri
-11/25/1994,02/24/1998,Aston Villa,Permanent,Brian Little
-02/28/1997,03/13/1998,Crystal Palace,Permanent,Steve Coppell
-12/04/2006,03/15/2010,Hull City,Permanent,Phil Brown
-11/13/2013,03/16/2017,Middlesbrough,Permanent,Aitor Karanka
-10/01/1998,03/16/2001,Tottenham Hotspur,Permanent,George Graham
-10/08/2013,03/16/2015,Sunderland,Permanent,Gustavo Poyet
-09/12/2017,03/20/2018,Crystal Palace,Permanent,Roy Hodgson
-10/25/2017,03/20/2018,Leicester City,Permanent,Claude Puel
-11/07/2017,03/20/2018,West Ham United,Permanent,David Moyes
-11/29/2017,03/20/2018,West Bromwich Albion,Permanent,Alan Pardew
-11/30/2017,03/20/2018,Everton,Permanent,Sam Allardyce
-12/28/2017,03/20/2018,Swansea City,Permanent,Carlos Carvalhal
-01/16/2018,03/20/2018,Stoke City,Permanent,Paul Lambert
-01/21/2018,03/20/2018,Watford,Permanent,Javier Gracia
-07/06/1998,03/21/2000,Sheffield Wednesday,Permanent,Danny Wilson
-01/30/2002,03/21/2003,Derby County,Permanent,John Gregory
-07/01/2002,03/21/2003,Leeds United,Permanent,Terry Venables
-11/10/1994,03/27/1997,Everton,Permanent,Joe Royle
-01/28/2000,03/28/2001,Southampton,Permanent,Glenn Hoddle
-11/03/2015,03/29/2016,Aston Villa,Permanent,RÃ©mi Garde
-12/05/2011,03/30/2013,Sunderland,Permanent,Martin O'Neill
-07/01/2000,04/17/2003,Fulham,Permanent,Jean Tigana
-07/01/2013,04/22/2014,Manchester United,Permanent,David Moyes
-05/09/2001,04/24/2003,West Ham United,Permanent,Glenn Roeder
-10/19/1999,04/29/2007,Bolton Wanderers,Permanent,Sam Allardyce
-10/09/2003,05/13/2009,Reading,Permanent,Steve Coppell
-12/20/2009,05/13/2013,Manchester City,Permanent,Roberto Mancini
-02/05/2002,05/14/2003,Aston Villa,Permanent,Graham Taylor
-06/12/2001,05/14/2007,Wigan Athletic,Permanent,Paul Jewell
-03/11/2005,05/14/2007,Manchester City,Permanent,Stuart Pearce
-02/14/2011,05/14/2012,West Bromwich Albion,Permanent,Roy Hodgson
-06/17/2011,05/14/2012,Aston Villa,Permanent,Alex McLeish
-02/13/2012,05/14/2012,Wolverhampton Wanderers,Permanent,Terry Connor
-12/02/1999,05/16/2007,Sheffield United,Permanent,Neil Warnock
-06/03/2010,05/16/2011,West Ham United,Permanent,Avram Grant
-01/08/2011,05/16/2012,Liverpool,Permanent,Kenny Dalglish
-11/07/1997,05/17/1998,Sheffield Wednesday,Permanent,Ron Atkinson
-11/26/2009,05/20/2010,Portsmouth,Permanent,Avram Grant
-02/18/1998,05/21/2001,Manchester City,Permanent,Joe Royle
-06/15/2006,05/21/2013,Stoke City,Permanent,Tony Pulis
-12/22/2003,05/22/2006,Crystal Palace,Permanent,Iain Dowie
-07/01/2016,05/22/2017,Watford,Permanent,Walter Mazzarri
-07/23/2016,05/22/2017,Sunderland,Permanent,David Moyes
-07/01/2009,05/23/2011,Chelsea,Permanent,Carlo Ancelotti
-07/14/2014,05/23/2016,Manchester United,Permanent,Louis van Gaal
-12/23/2016,05/23/2017,Crystal Palace,Permanent,Sam Allardyce
-09/20/2007,05/24/2008,Chelsea,Permanent,Avram Grant
-01/05/2017,05/25/2017,Hull City,Permanent,Marco Silva
-12/04/2008,05/25/2009,Sunderland,Permanent,Ricky Sbragia
-06/01/2011,05/25/2015,West Ham United,Permanent,Sam Allardyce
-12/16/2013,05/26/2014,Tottenham Hotspur,Permanent,Tim Sherwood
-01/18/2013,05/27/2014,Southampton,Permanent,Mauricio Pochettino
-06/01/1992,05/29/1999,Wimbledon,Permanent,Joe Kinnear
-11/12/1998,05/31/2004,Liverpool,Permanent,GÃ©rard Houllier
-09/18/2000,05/31/2004,Chelsea,Permanent,Claudio Ranieri
-06/30/2016,06/14/2017,Southampton,Permanent,Claude Puel
-10/25/2008,06/14/2012,Tottenham Hotspur,Permanent,Harry Redknapp
-06/16/2014,06/14/2016,Southampton,Permanent,Ronald Koeman
-01/06/1998,06/18/2000,Bradford City,Permanent,Paul Jewell
-11/15/2011,06/30/2015,Leicester City,Permanent,Nigel Pearson
-06/14/2013,06/30/2016,Manchester City,Permanent,Manuel Pellegrini
-06/05/2015,06/30/2016,Watford,Permanent,Quique SÃ¡nchez Flores
-08/01/2003,07/19/2006,Aston Villa,Permanent,David O'Leary
-06/08/2012,07/22/2016,Hull City,Permanent,Steve Bruce
-10/09/2015,07/22/2016,Sunderland,Permanent,Sam Allardyce
-11/24/2013,08/14/2014,Crystal Palace,Permanent,Tony Pulis
-03/04/2004,08/23/2004,Southampton,Permanent,Paul Sturrock
-01/14/1997,08/27/1998,Newcastle United,Permanent,Kenny Dalglish
-08/27/1998,08/28/1999,Newcastle United,Permanent,Ruud Gullit
-09/02/1999,08/30/2004,Newcastle United,Permanent,Bobby Robson
-02/12/1998,09/16/2000,Chelsea,Permanent,Gianluca Vialli
-11/09/2004,09/18/2006,West Bromwich Albion,Permanent,Bryan Robson
-01/02/2014,09/18/2014,Cardiff City,Permanent,Ole Gunnar Solskjaer
-02/14/2014,09/18/2014,Fulham,Permanent,Felix Magath
-06/01/2004,09/19/2007,Chelsea,Permanent,JosÃ© Mourinho
-04/02/2001,09/21/2003,Tottenham Hotspur,Permanent,Glenn Hoddle
-01/02/1996,09/22/1999,Bolton Wanderers,Permanent,Colin Todd
-03/31/2013,09/22/2013,Sunderland,Permanent,Paolo Di Canio
-09/09/1996,09/24/1998,Leeds United,Permanent,George Graham
-12/13/2010,09/28/2012,Blackburn Rovers,Permanent,Steve Kean
-06/12/2000,09/30/2001,Leicester City,Permanent,Peter Taylor
-03/22/2018,06/30/2018,Charlton Athletic,grey,Lee Bowyer
-11/24/2016,03/21/2018,Charlton Athletic,grey,Karl Robinson
-11/17/2016,11/23/2016,Charlton Athletic,grey,Kevin Nugent
-07/01/2016,11/14/2016,Charlton Athletic,grey,Russell Slade
-01/14/2016,06/30/2016,Charlton Athletic,grey,José Riga
-10/25/2015,01/13/2016,Charlton Athletic,grey,Karel Fraeye
-01/13/2015,10/24/2015,Charlton Athletic,grey,Guy Luzon
-07/01/2014,01/11/2015,Charlton Athletic,grey,Bob Peeters
-03/12/2014,06/30/2014,Charlton Athletic,grey,José Riga
-01/14/2011,03/11/2014,Charlton Athletic,grey,Chris Powell
-01/04/2011,01/13/2011,Charlton Athletic,grey,Keith Peacock
-11/24/2008,01/04/2011,Charlton Athletic,grey,Phil Parkinson
-12/26/2006,11/23/2008,Charlton Athletic,grey,Alan Pardew
-11/14/2006,12/25/2006,Charlton Athletic,grey,Les Reed
-05/09/2006,11/13/2006,Charlton Athletic,grey,Iain Dowie
-07/24/1991,05/08/2006,Charlton Athletic,grey,Alan Curbishley
-09/12/2017,06/30/2019,Crystal Palace,grey,Roy Hodgson
-07/01/2017,09/11/2017,Crystal Palace,grey,Frank de Boer
-12/23/2016,06/30/2017,Crystal Palace,grey,Sam Allardyce
-01/03/2015,12/22/2016,Crystal Palace,grey,Alan Pardew
-12/28/2014,01/02/2015,Crystal Palace,grey,Keith Millen
-08/27/2014,12/27/2014,Crystal Palace,grey,Neil Warnock
-08/15/2014,08/26/2014,Crystal Palace,grey,Keith Millen
-11/23/2013,08/14/2014,Crystal Palace,grey,Tony Pulis
-10/24/2013,11/22/2013,Crystal Palace,grey,Keith Millen
-11/04/2012,10/23/2013,Crystal Palace,grey,Ian Holloway
-10/23/2012,11/03/2012,Crystal Palace,grey,Lennie Lawrence
-01/01/2011,10/24/2012,Crystal Palace,grey,Dougie Freedman
-06/17/2010,01/02/2011,Crystal Palace,grey,George Burley
-03/03/2010,05/31/2010,Crystal Palace,grey,Paul Hart
-10/11/2007,03/01/2010,Crystal Palace,grey,Neil Warnock
-07/01/2006,10/07/2007,Crystal Palace,grey,Peter Taylor
-12/22/2003,06/30/2006,Crystal Palace,grey,Iain Dowie
-11/30/2001,04/18/2003,Crystal Palace,grey,Trevor Francis
-05/31/2001,11/02/2001,Crystal Palace,grey,Steve Bruce
-07/01/2000,05/30/2001,Crystal Palace,grey,Alan Smith
-07/01/1999,06/30/2000,Crystal Palace,grey,Steve Coppell
-06/04/1998,01/15/1999,Crystal Palace,grey,Terry Venables
-03/13/1998,04/29/1998,Crystal Palace,grey,Attilio Lombardo
-07/01/1997,03/12/1998,Crystal Palace,grey,Steve Coppell
-02/08/1996,02/27/1997,Crystal Palace,grey,Dave Bassett
-07/01/2016,06/30/2019,Manchester City,grey,Pep Guardiola
-06/24/2013,06/30/2016,Manchester City,grey,Manuel Pellegrini
-05/14/2013,06/30/2013,Manchester City,grey,Brian Kidd
-12/20/2009,05/13/2013,Manchester City,grey,Roberto Mancini
-07/01/2008,12/19/2009,Manchester City,grey,Mark Hughes
-07/06/2007,06/02/2008,Manchester City,grey,Sven-Göran Eriksson
-03/12/2005,05/14/2007,Manchester City,grey,Stuart Pearce
-07/01/2001,03/11/2005,Manchester City,grey,Kevin Keegan
-02/18/1998,05/21/2001,Manchester City,grey,Joe Royle
-12/29/1996,02/17/1998,Manchester City,grey,Frank Clark
-11/09/1996,12/28/1996,Manchester City,grey,Phil Neal
-10/07/1996,11/08/1996,Manchester City,grey,Steve Coppell
-08/26/1996,10/07/1996,Manchester City,grey,Asa Hartford
-02/06/2018,06/30/2019,Leeds United,grey,Paul Heckingbottom
-07/01/2017,02/04/2018,Leeds United,grey,Thomas Christiansen
-07/01/2016,05/25/2017,Leeds United,grey,Garry Monk
-10/20/2015,06/30/2016,Leeds United,grey,Steve Evans
-07/01/2015,10/18/2015,Leeds United,grey,Uwe Rösler
-10/26/2014,06/30/2015,Leeds United,grey,Neil Redfearn
-09/21/2014,10/25/2014,Leeds United,grey,Darko Milanič
-08/29/2014,09/20/2014,Leeds United,grey,Neil Redfearn
-06/19/2014,08/28/2014,Leeds United,grey,Dave Hockaday
-04/13/2013,05/31/2014,Leeds United,grey,Brian McDermott
-04/02/2013,04/11/2013,Leeds United,grey,Neil Redfearn
-02/18/2012,04/01/2013,Leeds United,grey,Neil Warnock
-02/02/2012,02/17/2012,Leeds United,grey,Neil Redfearn
-12/23/2008,02/01/2012,Leeds United,grey,Simon Grayson
-01/29/2008,12/21/2008,Leeds United,grey,Gary McAllister
-10/24/2006,01/28/2008,Leeds United,grey,Dennis Wise
-09/21/2006,10/23/2006,Leeds United,grey,John Carver
-06/01/2004,09/20/2006,Leeds United,grey,Kevin Blackwell
-11/11/2003,06/30/2004,Leeds United,grey,Eddie Gray
-03/21/2003,11/10/2003,Leeds United,grey,Peter Reid
-07/08/2002,03/21/2003,Leeds United,grey,Terry Venables
-10/01/1998,06/30/2002,Leeds United,grey,David O'Leary
-09/10/1996,09/30/1998,Leeds United,grey,George Graham
-05/12/2016,06/30/2019,Sheffield United,grey,Chris Wilder
-07/01/2015,06/30/2016,Sheffield United,grey,Nigel Adkins
-10/24/2013,05/25/2015,Sheffield United,grey,Nigel Clough
-10/12/2013,10/22/2013,Sheffield United,grey,Chris Morgan
-07/01/2013,10/11/2013,Sheffield United,grey,David Weir
-04/12/2013,10/23/2013,Sheffield United,grey,Chris Morgan
-07/01/2011,04/10/2013,Sheffield United,grey,Danny Wilson
-01/01/2011,05/10/2011,Sheffield United,grey,Micky Adams
-12/14/2010,12/31/2010,Sheffield United,grey,John Carver
-08/17/2010,12/13/2010,Sheffield United,grey,Gary Speed
-02/14/2008,08/15/2010,Sheffield United,grey,Kevin Blackwell
-05/22/2007,02/14/2008,Sheffield United,grey,Bryan Robson
-12/02/1999,05/16/2007,Sheffield United,grey,Neil Warnock
-11/23/1999,12/02/1999,Sheffield United,grey,Russell Slade
-07/01/1998,06/30/1999,Sheffield United,grey,Steve Bruce
-03/02/1998,03/09/1998,Sheffield United,grey,Russell Slade
-12/01/1995,06/26/1997,Sheffield United,grey,Howard Kendall
-11/01/2012,06/30/2018,Ipswich Town,grey,Mick McCarthy
-10/25/2012,10/31/2012,Ipswich Town,grey,Chris Hutchings
-01/13/2011,10/24/2012,Ipswich Town,grey,Paul Jewell
-01/07/2011,01/12/2011,Ipswich Town,grey,Ian McParland
-04/23/2009,01/07/2011,Ipswich Town,grey,Roy Keane
-06/05/2006,04/22/2009,Ipswich Town,grey,Jim Magilton
-10/28/2002,06/30/2006,Ipswich Town,grey,Joe Royle
-10/11/2002,10/28/2002,Ipswich Town,grey,Tony Mowbray
-12/28/1994,10/11/2002,Ipswich Town,grey,George Burley
-07/01/2016,06/30/2018,Bolton Wanderers,grey,Phil Parkinson
-03/15/2016,06/30/2016,Bolton Wanderers,grey,Jimmy Phillips
-10/12/2014,03/14/2016,Bolton Wanderers,grey,Neil Lennon
-10/03/2014,10/12/2014,Bolton Wanderers,grey,Andy Hughes
-10/25/2012,10/03/2014,Bolton Wanderers,grey,Dougie Freedman
-10/10/2012,10/24/2012,Bolton Wanderers,grey,Jimmy Phillips
-01/08/2010,10/09/2012,Bolton Wanderers,grey,Owen Coyle
-12/30/2009,01/05/2010,Bolton Wanderers,grey,Chris Evans
-12/30/2009,01/07/2010,Bolton Wanderers,grey,Steve Wigley
-10/25/2007,12/30/2009,Bolton Wanderers,grey,Gary Megson
-10/18/2007,10/25/2007,Bolton Wanderers,grey,Archie Knox
-10/17/2007,10/24/2007,Bolton Wanderers,grey,Ricky Sbragia
-04/30/2007,10/16/2007,Bolton Wanderers,grey,Sammy Lee
-07/01/2000,06/30/2004,Bolton Wanderers,grey,Neil McDonald
-10/19/1999,04/29/2007,Bolton Wanderers,grey,Sam Allardyce
-09/22/1999,10/19/1999,Bolton Wanderers,grey,Phil Brown
-01/12/1996,09/22/1999,Bolton Wanderers,grey,Colin Todd
-01/15/2018,06/30/2020,Stoke City,grey,Paul Lambert
-07/01/2013,01/06/2018,Stoke City,grey,Mark Hughes
-06/15/2006,06/30/2013,Stoke City,grey,Tony Pulis
-07/01/2005,05/01/2006,Stoke City,grey,Jan Boskamp
-11/01/2002,06/28/2005,Stoke City,grey,Tony Pulis
-10/10/2002,10/31/2002,Stoke City,grey,Dave Kevan
-11/16/1999,05/15/2002,Stoke City,grey,Guðjón Þórðarson
-07/01/1999,11/15/1999,Stoke City,grey,Gary Megson
-05/01/1998,06/30/1999,Stoke City,grey,Brian Little
-10/01/1994,06/30/1997,Stoke City,grey,Lou Macari
-12/26/2017,06/30/2019,Middlesbrough,grey,Tony Pulis
-06/09/2017,12/23/2017,Middlesbrough,grey,Garry Monk
-03/16/2017,06/30/2017,Middlesbrough,grey,Steve Agnew
-11/13/2013,03/15/2017,Middlesbrough,grey,Karanka
-10/22/2013,11/12/2013,Middlesbrough,grey,Mark Venus
-10/26/2010,10/21/2013,Middlesbrough,grey,Tony Mowbray
-10/18/2010,10/25/2010,Middlesbrough,grey,Steve Agnew
-10/26/2009,10/18/2010,Middlesbrough,grey,Gordon Strachan
-10/22/2009,10/25/2009,Middlesbrough,grey,Colin Cooper
-07/01/2006,10/20/2009,Middlesbrough,grey,Gareth Southgate
-07/01/2001,06/30/2006,Middlesbrough,grey,Steve McClaren
-12/06/2000,06/12/2001,Middlesbrough,grey,Terry Venables
-07/01/1994,12/05/2000,Middlesbrough,grey,Bryan Robson
-03/14/2017,06/30/2021,Derby County,grey,Gary Rowett
-10/12/2016,03/12/2017,Derby County,grey,Steve McClaren
-09/27/2016,10/11/2016,Derby County,grey,Chris Powell
-05/27/2016,09/26/2016,Derby County,grey,Nigel Pearson
-02/08/2016,05/26/2016,Derby County,grey,Darren Wassall
-06/01/2015,02/07/2016,Derby County,grey,Paul Clement
-10/02/2013,05/25/2015,Derby County,grey,Steve McClaren
-09/29/2013,10/01/2013,Derby County,grey,Darren Wassall
-01/06/2009,09/28/2013,Derby County,grey,Nigel Clough
-11/28/2007,12/29/2008,Derby County,grey,Paul Jewell
-07/01/2006,11/26/2007,Derby County,grey,Billy Davies
-06/24/2005,01/30/2006,Derby County,grey,Phil Brown
-03/31/2003,06/07/2005,Derby County,grey,George Burley
-03/21/2003,03/31/2003,Derby County,grey,Mark Lillis
-01/30/2002,03/21/2003,Derby County,grey,John Gregory
-01/15/2002,01/29/2002,Derby County,grey,Billy McEwan
-10/08/2001,01/14/2002,Derby County,grey,Colin Todd
-07/01/1996,09/30/2001,Derby County,grey,Jim Smith
-03/04/2018,06/30/2021,Birmingham City,grey,Garry Monk
-09/29/2017,03/03/2018,Birmingham City,grey,Steve Cotterill
-09/17/2017,09/28/2017,Birmingham City,grey,Lee Carsley
-04/18/2017,09/16/2017,Birmingham City,grey,Harry Redknapp
-12/14/2016,04/17/2017,Birmingham City,grey,Gianfranco Zola
-10/27/2014,12/13/2016,Birmingham City,grey,Gary Rowett
-10/21/2014,10/31/2014,Birmingham City,grey,Richard Beale
-07/01/2012,10/20/2014,Birmingham City,grey,Lee Clark
-06/22/2011,06/30/2012,Birmingham City,grey,Chris Hughton
-11/27/2007,06/12/2011,Birmingham City,grey,Alex McLeish
-11/19/2007,11/26/2007,Birmingham City,grey,Eric Black
-12/12/2001,11/18/2007,Birmingham City,grey,Steve Bruce
-10/15/2001,12/12/2001,Birmingham City,grey,Mick Mills
-05/10/1996,10/15/2001,Birmingham City,grey,Trevor Francis
-07/01/2017,06/30/2020,Wigan Athletic,grey,Paul Cook
-03/13/2017,06/30/2017,Wigan Athletic,grey,Graham Barrow
-11/03/2016,03/12/2017,Wigan Athletic,grey,Warren Joyce
-10/26/2016,11/02/2016,Wigan Athletic,grey,Graham Barrow
-04/07/2015,10/25/2016,Wigan Athletic,grey,Gary Caldwell
-11/19/2014,04/06/2015,Wigan Athletic,grey,Malky Mackay
-12/07/2013,11/13/2014,Wigan Athletic,grey,Uwe Rösler
-12/03/2013,12/05/2013,Wigan Athletic,grey,Graham Barrow
-07/01/2013,12/02/2013,Wigan Athletic,grey,Owen Coyle
-07/01/2009,06/30/2013,Wigan Athletic,grey,Roberto Martínez
-11/26/2007,06/30/2009,Wigan Athletic,grey,Steve Bruce
-11/06/2007,11/25/2007,Wigan Athletic,grey,Frank Barlow
-05/15/2007,11/05/2007,Wigan Athletic,grey,Chris Hutchings
-06/12/2001,05/14/2007,Wigan Athletic,grey,Paul Jewell
-04/04/2001,05/29/2001,Wigan Athletic,grey,Steve Bruce
-06/26/2000,02/27/2001,Wigan Athletic,grey,Bruce Rioch
-11/01/1995,06/30/1998,Wigan Athletic,grey,John Deehan
-07/01/2017,06/30/2019,Norwich City,grey,Daniel Farke
-03/11/2017,06/30/2017,Norwich City,grey,Alan Irvine
-01/09/2015,03/10/2017,Norwich City,grey,Alex Neil
-04/07/2014,01/05/2015,Norwich City,grey,Neil Adams
-07/01/2012,04/06/2014,Norwich City,grey,Chris Hughton
-08/19/2009,06/30/2012,Norwich City,grey,Paul Lambert
-08/16/2009,08/18/2009,Norwich City,grey,Ian Butterworth
-01/16/2009,08/15/2009,Norwich City,grey,Bryan Gunn
-10/30/2007,01/14/2009,Norwich City,grey,Glenn Roeder
-10/10/2007,10/29/2007,Norwich City,grey,Jim Duffy
-10/16/2006,10/10/2007,Norwich City,grey,Peter Grant
-10/02/2006,10/15/2006,Norwich City,grey,Martin Hunter
-12/04/2000,10/01/2006,Norwich City,grey,Nigel Worthington
-03/13/2000,12/03/2000,Norwich City,grey,Bryan Hamilton
-06/12/1998,03/13/2000,Norwich City,grey,Bruce Rioch
-07/01/1996,06/30/1998,Norwich City,grey,Mike Walker
-03/23/2018,06/30/2021,Reading,grey,Paul Clement
-07/01/2016,03/20/2018,Reading,grey,Jaap Stam
-12/17/2015,06/30/2016,Reading,grey,Brian McDermott
-12/10/2015,12/16/2015,Reading,grey,Martin Kuhl
-12/16/2014,12/03/2015,Reading,grey,Steve Clarke
-03/26/2013,12/15/2014,Reading,grey,Nigel Adkins
-03/15/2013,03/17/2013,Reading,grey,Eamonn Dolan
-12/17/2009,03/11/2013,Reading,grey,Brian McDermott
-07/01/2009,12/17/2009,Reading,grey,Brendan Rodgers
-10/09/2003,05/13/2009,Reading,grey,Steve Coppell
-09/10/2003,10/03/2003,Reading,grey,Kevin Dillon
-10/13/1999,09/10/2003,Reading,grey,Alan Pardew
-03/18/1998,03/25/1998,Reading,grey,Alan Pardew
-05/31/2017,06/30/2018,Wolverhampton Wanderers,grey,Nuno
-11/06/2016,05/30/2017,Wolverhampton Wanderers,grey,Paul Lambert
-10/25/2016,11/05/2016,Wolverhampton Wanderers,grey,Rob Edwards
-07/30/2016,10/25/2016,Wolverhampton Wanderers,grey,Walter Zenga
-06/01/2013,07/29/2016,Wolverhampton Wanderers,grey,Kenny Jackett
-01/06/2013,05/07/2013,Wolverhampton Wanderers,grey,Dean Saunders
-07/01/2012,01/05/2013,Wolverhampton Wanderers,grey,Ståle Solbakken
-02/24/2012,06/30/2012,Wolverhampton Wanderers,grey,Terry Connor
-07/21/2006,02/13/2012,Wolverhampton Wanderers,grey,Mick McCarthy
-12/07/2004,06/30/2006,Wolverhampton Wanderers,grey,Glenn Hoddle
-01/04/2001,10/31/2004,Wolverhampton Wanderers,grey,Dave Jones
-12/18/2000,01/03/2001,Wolverhampton Wanderers,grey,John Ward
-11/05/1998,12/17/2000,Wolverhampton Wanderers,grey,Colin Lee
-12/13/1995,11/04/1998,Wolverhampton Wanderers,grey,Mark McGhee
-10/14/2012,06/30/2020,Bournemouth,grey,Eddie Howe
-10/03/2012,10/13/2012,Bournemouth,grey,Dennis Rofe
-03/26/2012,10/03/2012,Bournemouth,grey,Paul Groves
-01/15/2011,03/25/2012,Bournemouth,grey,Lee Bradbury
-01/02/2009,01/15/2011,Bournemouth,grey,Eddie Howe
-09/02/2008,01/01/2009,Bournemouth,grey,Jimmy Quinn
-10/13/2006,09/01/2008,Bournemouth,grey,Kevin Bond
-07/01/2001,06/30/2005,Bournemouth,grey,Shaun Brooks
-08/19/2000,09/08/2006,Bournemouth,grey,Sean O'Driscoll
-10/31/2012,06/30/2022,Burnley,grey,Sean Dyche
-10/16/2012,10/30/2012,Burnley,grey,Terry Pashley
-01/16/2011,10/11/2012,Burnley,grey,Eddie Howe
-01/13/2010,12/29/2010,Burnley,grey,Brian Laws
-01/10/2010,01/31/2010,Burnley,grey,Martin Dobson
-01/07/2010,01/11/2010,Burnley,grey,Steve Davis
-11/22/2007,01/05/2010,Burnley,grey,Owen Coyle
-06/04/2004,11/08/2007,Burnley,grey,Steve Cotterill
-06/02/1998,06/03/2004,Burnley,grey,Stan Ternent
-07/01/1997,06/30/1998,Burnley,grey,Chris Waddle
-01/21/2018,06/30/2018,Watford,grey,Javi Gracia
-07/01/2017,01/21/2018,Watford,grey,Marco Silva
-07/01/2016,06/30/2017,Watford,grey,Walter Mazzarri
-07/01/2015,06/30/2016,Watford,grey,Quique Flores
-10/07/2014,05/26/2015,Watford,grey,Slaviša Jokanović
-09/29/2014,10/06/2014,Watford,grey,Billy McKinlay
-09/02/2014,09/28/2014,Watford,grey,Óscar
-12/17/2013,08/31/2014,Watford,grey,Giuseppe Sannino
-07/01/2012,12/16/2013,Watford,grey,Gianfranco Zola
-07/01/2011,06/30/2012,Watford,grey,Sean Dyche
-06/15/2009,06/16/2011,Watford,grey,Malky Mackay
-11/24/2008,06/13/2009,Watford,grey,Brendan Rodgers
-11/03/2008,11/23/2008,Watford,grey,Malky Mackay
-03/29/2005,11/02/2008,Watford,grey,Aidy Boothroyd
-07/01/2002,03/23/2005,Watford,grey,Ray Lewington
-06/01/2001,06/14/2002,Watford,grey,Gianluca Vialli
-07/01/1997,06/30/2001,Watford,grey,Graham Taylor
-07/01/1996,06/30/1997,Watford,grey,Kenny Jackett
-03/06/2017,06/30/2018,Coventry City,grey,Mark Robins
-12/21/2016,03/05/2017,Coventry City,grey,Russell Slade
-09/30/2016,12/20/2016,Coventry City,grey,Mark Venus
-03/03/2015,09/29/2016,Coventry City,grey,Tony Mowbray
-02/23/2015,03/02/2015,Coventry City,grey,Dave Hockaday
-02/23/2015,03/02/2015,Coventry City,grey,Neil MacFarlane
-03/08/2013,02/22/2015,Coventry City,grey,Steven Pressley
-02/14/2013,03/07/2013,Coventry City,grey,Lee Carsley
-08/27/2012,02/12/2013,Coventry City,grey,Mark Robins
-03/14/2011,08/26/2012,Coventry City,grey,Andy Thorn
-05/20/2010,03/14/2011,Coventry City,grey,Aidy Boothroyd
-02/19/2008,05/04/2010,Coventry City,grey,Chris Coleman
-02/19/2007,02/10/2008,Coventry City,grey,Iain Dowie
-01/18/2007,02/18/2007,Coventry City,grey,Adrian Heath
-01/15/2005,01/17/2007,Coventry City,grey,Micky Adams
-07/01/2003,06/30/2004,Coventry City,grey,Eric Black
-07/01/2002,01/12/2004,Coventry City,grey,Gary McAllister
-11/05/1996,09/10/2001,Coventry City,grey,Gordon Strachan
-02/15/1995,11/05/1996,Coventry City,grey,Ron Atkinson
-04/02/2018,06/30/2018,West Bromwich Albion,grey,Darren Moore
-11/29/2017,04/01/2018,West Bromwich Albion,grey,Alan Pardew
-11/20/2017,11/28/2017,West Bromwich Albion,grey,Gary Megson
-01/01/2015,11/20/2017,West Bromwich Albion,grey,Tony Pulis
-07/01/2014,12/30/2014,West Bromwich Albion,grey,Alan Irvine
-01/09/2014,05/12/2014,West Bromwich Albion,grey,Pepe Mel
-12/15/2013,01/08/2014,West Bromwich Albion,grey,Keith Downing
-07/01/2012,12/14/2013,West Bromwich Albion,grey,Steve Clarke
-02/11/2011,06/30/2012,West Bromwich Albion,grey,Roy Hodgson
-07/01/2009,02/07/2011,West Bromwich Albion,grey,Roberto Di Matteo
-10/18/2006,06/30/2009,West Bromwich Albion,grey,Tony Mowbray
-09/19/2006,10/17/2006,West Bromwich Albion,grey,Nigel Pearson
-11/09/2004,09/18/2006,West Bromwich Albion,grey,Bryan Robson
-03/09/2000,10/26/2004,West Bromwich Albion,grey,Gary Megson
-07/27/1999,08/03/1999,West Bromwich Albion,grey,John Gorman
-07/01/1999,03/31/2000,West Bromwich Albion,grey,Brian Little
-01/01/1998,09/27/1999,West Bromwich Albion,grey,Denis Smith
-02/01/1997,11/30/1997,West Bromwich Albion,grey,Ray Harford
-10/20/1994,01/22/1997,West Bromwich Albion,grey,Alan Buckley
-02/22/2017,06/30/2018,Blackburn Rovers,grey,Tony Mowbray
-06/03/2016,02/21/2017,Blackburn Rovers,grey,Owen Coyle
-11/16/2015,06/30/2016,Blackburn Rovers,grey,Paul Lambert
-03/20/2013,11/10/2015,Blackburn Rovers,grey,Gary Bowyer
-01/12/2013,03/19/2013,Blackburn Rovers,grey,Michael Appleton
-12/28/2012,01/11/2013,Blackburn Rovers,grey,Gary Bowyer
-10/31/2012,12/27/2012,Blackburn Rovers,grey,Henning Berg
-09/29/2012,10/30/2012,Blackburn Rovers,grey,Eric Black
-12/14/2010,09/28/2012,Blackburn Rovers,grey,Steve Kean
-12/16/2008,12/13/2010,Blackburn Rovers,grey,Sam Allardyce
-07/01/2008,12/16/2008,Blackburn Rovers,grey,Paul Ince
-09/15/2004,06/30/2008,Blackburn Rovers,grey,Mark Hughes
-03/14/2000,09/06/2004,Blackburn Rovers,grey,Graeme Souness
-11/04/1999,03/13/2000,Blackburn Rovers,grey,Tony Parkes
-11/22/1998,11/03/1999,Blackburn Rovers,grey,Brian Kidd
-06/01/1997,11/21/1998,Blackburn Rovers,grey,Roy Hodgson
-10/26/1996,06/30/1997,Blackburn Rovers,grey,Tony Parkes
-07/01/1995,10/25/1996,Blackburn Rovers,grey,Ray Harford
-10/25/2017,06/30/2018,Leicester City,grey,Claude Puel
-10/17/2017,10/24/2017,Leicester City,grey,Michael Appleton
-02/23/2017,10/16/2017,Leicester City,grey,Craig Shakespeare
-07/13/2015,02/23/2017,Leicester City,grey,Claudio Ranieri
-11/15/2011,06/29/2015,Leicester City,grey,Nigel Pearson
-10/25/2011,11/06/2011,Leicester City,grey,Michael Stowell
-10/03/2010,10/24/2011,Leicester City,grey,Sven-Göran Eriksson
-07/07/2010,10/01/2010,Leicester City,grey,Paulo Sousa
-07/01/2008,06/30/2010,Leicester City,grey,Nigel Pearson
-11/22/2007,06/30/2008,Leicester City,grey,Ian Holloway
-09/13/2007,10/24/2007,Leicester City,grey,Gary Megson
-05/25/2007,08/29/2007,Leicester City,grey,Martin Allen
-04/11/2007,05/24/2007,Leicester City,grey,Nigel Worthington
-01/25/2006,04/10/2007,Leicester City,grey,Rob Kelly
-11/01/2004,01/25/2006,Leicester City,grey,Craig Levein
-10/11/2004,10/31/2004,Leicester City,grey,Dave Bassett
-04/07/2002,06/30/2004,Leicester City,grey,Micky Adams
-10/10/2001,04/06/2002,Leicester City,grey,Dave Bassett
-07/01/2000,09/30/2001,Leicester City,grey,Peter Taylor
-07/01/1996,06/30/2000,Leicester City,grey,Paul Franklin
-12/21/1995,06/30/2000,Leicester City,grey,Martin O'Neill
-12/07/2017,06/30/2018,Hull City,grey,Nigel Adkins
-06/09/2017,12/03/2017,Hull City,grey,Leonid Slutskiy
-01/05/2017,05/25/2017,Hull City,grey,Marco Silva
-07/23/2016,01/03/2017,Hull City,grey,Mike Phelan
-07/01/2012,07/22/2016,Hull City,grey,Steve Bruce
-11/15/2011,05/08/2012,Hull City,grey,Nick Barmby
-07/01/2010,11/07/2011,Hull City,grey,Nigel Pearson
-03/17/2010,06/30/2010,Hull City,grey,Iain Dowie
-12/04/2006,03/15/2010,Hull City,grey,Phil Brown
-07/01/2006,12/03/2006,Hull City,grey,Phil Parkinson
-10/14/2002,06/30/2006,Hull City,grey,Peter Taylor
-04/01/2000,02/28/2002,Hull City,grey,Brian Little
-11/21/1998,03/31/2000,Hull City,grey,Warren Joyce
-02/01/1991,07/14/1997,Hull City,grey,Terence Dolan
-02/16/2018,06/30/2019,Barnsley,grey,José Morais
-02/06/2018,02/10/2018,Barnsley,grey,Paul Harsley
-02/06/2016,02/05/2018,Barnsley,grey,Paul Heckingbottom
-02/25/2015,02/05/2016,Barnsley,grey,Lee Johnson
-02/12/2015,02/24/2015,Barnsley,grey,Paul Heckingbottom
-12/17/2013,02/11/2015,Barnsley,grey,Danny Wilson
-12/01/2013,12/16/2013,Barnsley,grey,Micky Mellon
-12/30/2012,11/30/2013,Barnsley,grey,David Flitcroft
-07/01/2011,12/29/2012,Barnsley,grey,Keith Hill
-09/09/2009,06/30/2011,Barnsley,grey,Mark Robins
-11/22/2006,08/31/2009,Barnsley,grey,Simon Davey
-03/04/2005,11/21/2006,Barnsley,grey,Andy Ritchie
-07/01/2003,03/04/2004,Barnsley,grey,Guðjón Þórðarson
-10/15/2002,06/30/2003,Barnsley,grey,Glyn Hodges
-11/09/2001,10/15/2002,Barnsley,grey,Steve Parkin
-10/25/2001,11/09/2001,Barnsley,grey,Glyn Hodges
-01/09/2001,10/24/2001,Barnsley,grey,Nigel Spackman
-12/20/2000,01/08/2001,Barnsley,grey,Eric Winstanley
-05/27/1999,12/19/2000,Barnsley,grey,Dave Bassett
-04/19/1999,05/26/1999,Barnsley,grey,Eric Winstanley
-10/12/2016,06/30/2018,Aston Villa,grey,Steve Bruce
-10/04/2016,10/11/2016,Aston Villa,grey,Steve Clarke
-07/01/2016,10/03/2016,Aston Villa,grey,Roberto Di Matteo
-03/29/2016,06/30/2016,Aston Villa,grey,Eric Black
-11/03/2015,03/28/2016,Aston Villa,grey,Rémi Garde
-10/26/2015,11/02/2015,Aston Villa,grey,Kevin MacDonald
-02/14/2015,10/25/2015,Aston Villa,grey,Tim Sherwood
-02/11/2015,02/13/2015,Aston Villa,grey,Scott Marshall
-07/01/2012,02/10/2015,Aston Villa,grey,Paul Lambert
-07/01/2011,05/14/2012,Aston Villa,grey,Alex McLeish
-04/22/2011,06/30/2011,Aston Villa,grey,Gary McAllister
-09/19/2010,05/31/2011,Aston Villa,grey,Gérard Houllier
-08/10/2010,09/18/2010,Aston Villa,grey,Kevin MacDonald
-08/05/2006,08/09/2010,Aston Villa,grey,Martin O'Neill
-05/20/2003,07/18/2006,Aston Villa,grey,David O'Leary
-02/05/2002,05/14/2003,Aston Villa,grey,Graham Taylor
-01/25/2002,02/04/2002,Aston Villa,grey,John Deehan
-02/25/1998,01/24/2002,Aston Villa,grey,John Gregory
-11/21/1994,02/24/1998,Aston Villa,grey,Brian Little
-12/28/2015,06/30/2018,Fulham,grey,Slaviša Jokanović
-11/09/2015,12/27/2015,Fulham,grey,Peter Grant
-09/19/2014,11/08/2015,Fulham,grey,Kit Symons
-02/14/2014,09/18/2014,Fulham,grey,Felix Magath
-12/01/2013,02/13/2014,Fulham,grey,René Meulensteen
-06/30/2011,12/01/2013,Fulham,grey,Martin Jol
-07/01/2010,06/29/2011,Fulham,grey,Mark Hughes
-12/28/2007,06/30/2010,Fulham,grey,Roy Hodgson
-04/11/2007,12/21/2007,Fulham,grey,Lawrie Sanchez
-04/17/2003,04/10/2007,Fulham,grey,Chris Coleman
-07/01/2000,04/16/2003,Fulham,grey,Jean Tigana
-05/07/1998,06/30/1999,Fulham,grey,Kevin Keegan
-07/01/1997,05/06/1998,Fulham,grey,Ray Wilkins
-01/08/2018,06/30/2020,Nottingham Forest,grey,Karanka
-01/01/2018,01/08/2018,Nottingham Forest,grey,Gary Brazil
-03/14/2017,12/31/2017,Nottingham Forest,grey,Mark Warburton
-01/15/2017,03/13/2017,Nottingham Forest,grey,Gary Brazil
-07/01/2016,01/14/2017,Nottingham Forest,grey,Philippe Montanier
-03/14/2016,06/30/2016,Nottingham Forest,grey,Paul Williams
-02/02/2015,03/13/2016,Nottingham Forest,grey,Dougie Freedman
-07/01/2014,02/01/2015,Nottingham Forest,grey,Stuart Pearce
-03/25/2014,06/30/2014,Nottingham Forest,grey,Gary Brazil
-02/16/2013,03/23/2014,Nottingham Forest,grey,Billy Davies
-02/05/2013,02/11/2013,Nottingham Forest,grey,Rob Kelly
-12/28/2012,02/05/2013,Nottingham Forest,grey,Alex McLeish
-07/19/2012,12/27/2012,Nottingham Forest,grey,Sean O'Driscoll
-10/14/2011,06/30/2012,Nottingham Forest,grey,Steve Cotterill
-06/13/2011,10/02/2011,Nottingham Forest,grey,Steve McClaren
-01/04/2009,06/12/2011,Nottingham Forest,grey,Billy Davies
-12/28/2008,01/03/2009,Nottingham Forest,grey,John Pemberton
-06/01/2006,12/27/2008,Nottingham Forest,grey,Colin Calderwood
-02/17/2006,05/30/2006,Nottingham Forest,grey,Frank Barlow
-02/17/2006,05/30/2006,Nottingham Forest,grey,Ian McParland
-01/10/2005,02/16/2006,Nottingham Forest,grey,Gary Megson
-12/16/2004,01/10/2005,Nottingham Forest,grey,Mick Harford
-02/10/2004,12/16/2004,Nottingham Forest,grey,Joe Kinnear
-07/01/2001,06/30/2004,Nottingham Forest,grey,Paul Hart
-07/01/1999,06/30/2001,Nottingham Forest,grey,David Platt
-01/11/1999,06/30/1999,Nottingham Forest,grey,Ron Atkinson
-05/08/1997,01/05/1999,Nottingham Forest,grey,Dave Bassett
-07/01/1996,06/30/1997,Nottingham Forest,grey,Stuart Pearce
-01/08/2018,06/30/2018,Sheffield Wednesday,grey,Jos Luhukay
-12/25/2017,01/07/2018,Sheffield Wednesday,grey,Lee Bullen
-07/01/2015,12/24/2017,Sheffield Wednesday,grey,Carlos Carvalhal
-12/01/2013,06/30/2015,Sheffield Wednesday,grey,Stuart Gray
-03/02/2012,11/30/2013,Sheffield Wednesday,grey,Dave Jones
-02/04/2011,02/29/2012,Sheffield Wednesday,grey,Gary Megson
-01/08/2010,02/03/2011,Sheffield Wednesday,grey,Alan Irvine
-11/06/2006,01/07/2010,Sheffield Wednesday,grey,Brian Laws
-09/23/2004,10/19/2006,Sheffield Wednesday,grey,Paul Sturrock
-11/01/2002,09/19/2004,Sheffield Wednesday,grey,Chris Turner
-10/17/2001,10/31/2002,Sheffield Wednesday,grey,Terry Yorath
-02/12/2001,10/16/2001,Sheffield Wednesday,grey,Peter Shreeves
-06/22/2000,02/11/2001,Sheffield Wednesday,grey,Paul Jewell
-03/21/2000,06/21/2000,Sheffield Wednesday,grey,Peter Shreeves
-07/06/1998,03/21/2000,Sheffield Wednesday,grey,Danny Wilson
-11/14/1997,06/30/1998,Sheffield Wednesday,grey,Ron Atkinson
-07/01/1995,11/03/1997,Sheffield Wednesday,grey,David Pleat
-11/11/2016,06/30/2019,Queens Park Rangers,grey,Ian Holloway
-12/04/2015,11/05/2016,Queens Park Rangers,grey,Jimmy Floyd Hasselbaink
-11/05/2015,12/03/2015,Queens Park Rangers,grey,Neil Warnock
-02/13/2015,11/04/2015,Queens Park Rangers,grey,Chris Ramsey
-02/03/2015,02/12/2015,Queens Park Rangers,grey,Les Ferdinand
-11/25/2012,02/02/2015,Queens Park Rangers,grey,Harry Redknapp
-11/23/2012,11/24/2012,Queens Park Rangers,grey,Mark Bowen
-01/10/2012,11/22/2012,Queens Park Rangers,grey,Mark Hughes
-03/02/2010,01/08/2012,Queens Park Rangers,grey,Neil Warnock
-01/15/2010,03/01/2010,Queens Park Rangers,grey,Mick Harford
-12/17/2009,01/15/2010,Queens Park Rangers,grey,Paul Hart
-12/10/2009,12/16/2009,Queens Park Rangers,grey,Marc Bircham
-07/01/2009,12/09/2009,Queens Park Rangers,grey,Jim Magilton
-04/09/2009,06/30/2009,Queens Park Rangers,grey,Gareth Ainsworth
-11/19/2008,04/08/2009,Queens Park Rangers,grey,Paulo Sousa
-10/26/2008,11/18/2008,Queens Park Rangers,grey,Gareth Ainsworth
-05/14/2008,10/25/2008,Queens Park Rangers,grey,Iain Dowie
-10/29/2007,05/08/2008,Queens Park Rangers,grey,Luigi De Canio
-10/01/2007,10/28/2007,Queens Park Rangers,grey,Mick Harford
-09/20/2006,10/01/2007,Queens Park Rangers,grey,John Gregory
-02/07/2006,09/19/2006,Queens Park Rangers,grey,Gary Waddock
-02/26/2001,02/06/2006,Queens Park Rangers,grey,Ian Holloway
-10/16/1998,02/25/2001,Queens Park Rangers,grey,Gerry Francis
-09/28/1998,10/16/1998,Queens Park Rangers,grey,Iain Dowie
-03/26/1998,03/10/1999,Queens Park Rangers,grey,Vinnie Jones
-12/01/1997,09/30/1998,Queens Park Rangers,grey,Ray Harford
-09/16/1996,12/15/1997,Queens Park Rangers,grey,Stewart Houston
-07/01/2016,06/30/2018,Blackpool,grey,Gary Bowyer
-07/01/2015,06/30/2016,Blackpool,grey,Neil McDonald
-10/30/2014,05/09/2015,Blackpool,grey,Lee Clark
-10/28/2014,10/29/2014,Blackpool,grey,Noel Blake
-07/01/2014,10/27/2014,Blackpool,grey,José Riga
-01/22/2014,06/30/2014,Blackpool,grey,Barry Ferguson
-02/18/2013,01/21/2014,Blackpool,grey,Paul Ince
-01/11/2013,02/17/2013,Blackpool,grey,Steve Thompson
-11/07/2012,01/10/2013,Blackpool,grey,Michael Appleton
-11/03/2012,11/06/2012,Blackpool,grey,Steve Thompson
-05/21/2009,11/02/2012,Blackpool,grey,Ian Holloway
-12/23/2008,05/18/2009,Blackpool,grey,Tony Parkes
-11/29/2005,12/22/2008,Blackpool,grey,Simon Grayson
-01/07/2000,06/06/2004,Blackpool,grey,Steve McMahon
-07/01/1997,12/23/1999,Blackpool,grey,Nigel Worthington
-07/01/1996,06/30/1997,Blackpool,grey,Gary Megson
-12/31/2014,06/30/2018,Brighton and Hove Albion,grey,Chris Hughton
-12/23/2014,12/30/2014,Brighton and Hove Albion,grey,Nathan Jones
-07/01/2014,12/22/2014,Brighton and Hove Albion,grey,Sami Hyypiä
-07/01/2013,05/12/2014,Brighton and Hove Albion,grey,Óscar
-11/11/2009,06/30/2013,Brighton and Hove Albion,grey,Gustavo Poyet
-03/06/2009,11/10/2009,Brighton and Hove Albion,grey,Russell Slade
-07/01/2007,02/21/2009,Brighton and Hove Albion,grey,Micky Adams
-09/08/2006,05/08/2008,Brighton and Hove Albion,grey,Dean Wilkins
-10/28/2003,09/08/2006,Brighton and Hove Albion,grey,Mark McGhee
-10/07/2002,10/08/2003,Brighton and Hove Albion,grey,Steve Coppell
-10/17/2001,06/30/2002,Brighton and Hove Albion,grey,Peter Taylor
-01/22/1999,04/11/1999,Brighton and Hove Albion,grey,Jeff Wood
-02/26/1998,01/22/1999,Brighton and Hove Albion,grey,Brian Horton
-07/01/1996,06/30/1998,Brighton and Hove Albion,grey,Steve Gritt
-07/01/2017,06/30/2018,Portsmouth,grey,Kenny Jackett
-05/12/2015,06/30/2017,Portsmouth,grey,Paul Cook
-04/13/2015,05/11/2015,Portsmouth,grey,Gary Waddock
-03/27/2014,04/12/2015,Portsmouth,grey,Andrew Awford
-12/09/2013,03/27/2014,Portsmouth,grey,Richie Barker
-11/20/2013,12/08/2013,Portsmouth,grey,Andrew Awford
-11/07/2012,11/25/2013,Portsmouth,grey,Guy Whittingham
-11/10/2011,11/07/2012,Portsmouth,grey,Michael Appleton
-10/14/2011,11/06/2011,Portsmouth,grey,Guy Whittingham
-06/18/2010,10/13/2011,Portsmouth,grey,Steve Cotterill
-11/26/2009,06/30/2010,Portsmouth,grey,Avram Grant
-02/09/2009,11/24/2009,Portsmouth,grey,Paul Hart
-10/25/2008,02/09/2009,Portsmouth,grey,Tony Adams
-12/07/2005,10/25/2008,Portsmouth,grey,Harry Redknapp
-11/24/2005,12/06/2005,Portsmouth,grey,Joe Jordan
-04/07/2005,11/23/2005,Portsmouth,grey,Alain Perrin
-11/25/2004,04/06/2005,Portsmouth,grey,Velimir Zajec
-03/25/2002,11/24/2004,Portsmouth,grey,Harry Redknapp
-02/27/2001,03/25/2002,Portsmouth,grey,Graham Rix
-10/11/2000,02/25/2001,Portsmouth,grey,Steve Claridge
-01/13/2000,10/10/2000,Portsmouth,grey,Tony Pulis
-07/01/1998,06/30/1999,Portsmouth,grey,Alan Ball
-08/01/1995,01/13/1998,Portsmouth,grey,Terry Fenwick
-03/14/2018,06/30/2018,Southampton,grey,Mark Hughes
-07/01/2017,03/12/2018,Southampton,grey,Mauricio Pellegrino
-07/01/2016,06/30/2017,Southampton,grey,Claude Puel
-07/01/2014,06/30/2016,Southampton,grey,Ronald Koeman
-01/18/2013,06/30/2014,Southampton,grey,Mauricio Pochettino
-09/12/2010,01/17/2013,Southampton,grey,Nigel Adkins
-08/31/2010,09/11/2010,Southampton,grey,Dean Wilkins
-07/17/2009,08/30/2010,Southampton,grey,Alan Pardew
-01/23/2009,07/09/2009,Southampton,grey,Mark Wotte
-06/01/2008,01/23/2009,Southampton,grey,Jan Poortvliet
-02/18/2008,05/30/2008,Southampton,grey,Nigel Pearson
-01/25/2008,02/17/2008,Southampton,grey,Jason Dodd
-12/23/2005,01/24/2008,Southampton,grey,George Burley
-12/04/2005,12/22/2005,Southampton,grey,Dave Bassett
-12/08/2004,12/03/2005,Southampton,grey,Harry Redknapp
-08/23/2004,12/07/2004,Southampton,grey,Steve Wigley
-03/04/2004,08/23/2004,Southampton,grey,Paul Sturrock
-10/22/2001,02/13/2004,Southampton,grey,Gordon Strachan
-03/29/2001,10/21/2001,Southampton,grey,Stuart Gray
-01/28/2000,03/28/2001,Southampton,grey,Glenn Hoddle
-06/23/1997,01/27/2000,Southampton,grey,Dave Jones
-07/01/1996,06/30/1997,Southampton,grey,Graeme Souness
-10/05/2016,06/30/2018,Cardiff City,grey,Neil Warnock
-07/01/2016,10/03/2016,Cardiff City,grey,Paul Trollope
-10/06/2014,06/30/2016,Cardiff City,grey,Russell Slade
-09/18/2014,10/05/2014,Cardiff City,grey,Daniel Gabbidon
-09/18/2014,10/05/2014,Cardiff City,grey,Scott Young
-01/02/2014,09/18/2014,Cardiff City,grey,Ole Gunnar Solskjær
-12/28/2013,01/01/2014,Cardiff City,grey,David Kerslake
-06/17/2011,12/27/2013,Cardiff City,grey,Malky Mackay
-05/25/2005,05/30/2011,Cardiff City,grey,Dave Jones
-02/18/2002,06/30/2005,Cardiff City,grey,Lennie Lawrence
-07/01/2000,06/30/2001,Cardiff City,grey,Bobby Gould
-07/01/1998,06/30/2000,Cardiff City,grey,Frank Burrows
-11/11/1996,01/23/1998,Cardiff City,grey,Russell Osman
-02/11/2018,06/30/2018,Bradford City,grey,Simon Grayson
-02/08/2018,02/10/2018,Bradford City,grey,Greg Abbott
-07/01/2016,02/05/2018,Bradford City,grey,Stuart McCall
-08/28/2011,06/30/2016,Bradford City,grey,Phil Parkinson
-02/27/2011,08/25/2011,Bradford City,grey,Peter Jackson
-07/01/2010,02/24/2011,Bradford City,grey,Peter Taylor
-05/22/2007,06/30/2010,Bradford City,grey,Stuart McCall
-07/01/2004,02/12/2007,Bradford City,grey,Colin Todd
-11/20/2000,12/24/2001,Bradford City,grey,Jim Jefferies
-12/28/2017,06/30/2018,Swansea City,grey,Carlos Carvalhal
-12/21/2017,12/27/2017,Swansea City,grey,Leon Britton
-01/03/2017,12/20/2017,Swansea City,grey,Paul Clement
-12/28/2016,01/03/2017,Swansea City,grey,Alan Curtis
-10/03/2016,12/27/2016,Swansea City,grey,Bob Bradley
-01/19/2016,10/03/2016,Swansea City,grey,Francesco Guidolin
-12/10/2015,01/18/2016,Swansea City,grey,Alan Curtis
-02/05/2014,12/09/2015,Swansea City,grey,Garry Monk
-07/01/2012,02/04/2014,Swansea City,grey,Michael Laudrup
-07/01/2010,05/31/2012,Swansea City,grey,Brendan Rodgers
-07/01/2009,07/04/2010,Swansea City,grey,Paulo Sousa
-02/24/2007,06/30/2009,Swansea City,grey,Roberto Martínez
-02/15/2007,02/23/2007,Swansea City,grey,Kevin Nugent
-04/05/2004,02/14/2007,Swansea City,grey,Kenny Jackett
-03/18/2004,04/04/2004,Swansea City,grey,Alan Curtis
-07/01/2002,06/30/2004,Swansea City,grey,Brian Flynn
-09/13/2001,03/07/2002,Swansea City,grey,Colin Addison
+taskName	taskManager	startDate	endDate
+Arsenal	George Graham	14/05/1986	21/02/1995
+Arsenal	Stewart Houston	21/02/1995	08/06/1995
+Arsenal	Bruce Rioch	08/06/1995	12/08/1996
+Arsenal	Stewart Houston	12/08/1996	12/09/1996
+Arsenal	Pat Rice	12/09/1996	30/09/1996
+Arsenal	Arsène Wenger	01/10/1996	20/04/2018
+Aston Villa	Ron Atkinson	07/07/1991	10/11/1994
+Aston Villa	Jim Barron	10/11/1994	24/11/1994
+Aston Villa	Brian Little	25/11/1994	24/02/1998
+Aston Villa	John Gregory	25/02/1998	24/01/2002
+Aston Villa	John Deehan	24/01/2002	05/02/2002
+Aston Villa	Stuart Gray	24/01/2002	05/02/2002
+Aston Villa	Graham Taylor	05/02/2002	14/05/2003
+Aston Villa	David O'Leary	01/08/2003	19/07/2006
+Aston Villa	Martin O'Neill	05/08/2006	09/08/2010
+Aston Villa	Kevin MacDonald	09/08/2010	20/09/2010
+Aston Villa	Gérard Houllier	20/09/2010	02/06/2011
+Aston Villa	Alex McLeish	17/06/2011	14/05/2012
+Aston Villa	Paul Lambert	02/06/2012	11/02/2015
+Aston Villa	Tim Sherwood	16/02/2015	25/10/2015
+Aston Villa	Kevin MacDonald	25/10/2015	03/11/2015
+Aston Villa	Rémi Garde	03/11/2015	29/03/2016
+Aston Villa	Eric Black	30/03/2016	02/06/2016
+Barnsley	Danny Wilson	02/06/1994	07/07/1998
+Barnsley	John Hendrie	07/07/1998	19/04/1999
+Birmingham City	Steve Bruce	12/12/2001	19/11/2007
+Birmingham City	Eric Black	19/11/2007	27/11/2007
+Birmingham City	Alex McLeish	28/11/2007	12/06/2011
+Blackburn Rovers	Kenny Dalglish	12/10/1991	25/06/1995
+Blackburn Rovers	Ray Harford	25/06/1995	25/10/1996
+Blackburn Rovers	Tony Parkes	25/10/1996	01/06/1997
+Blackburn Rovers	Roy Hodgson	10/06/1997	22/11/1998
+Blackburn Rovers	Tony Parkes	22/11/1998	04/12/1998
+Blackburn Rovers	Brian Kidd	04/12/1998	03/11/1999
+Blackburn Rovers	Graeme Souness	14/03/2000	06/09/2004
+Blackburn Rovers	Tony Parkes	06/09/2004	15/09/2004
+Blackburn Rovers	Mark Hughes	16/09/2004	04/06/2008
+Blackburn Rovers	Paul Ince	22/06/2008	16/12/2008
+Blackburn Rovers	Sam Allardyce	17/12/2008	13/12/2010
+Blackburn Rovers	Steve Kean	13/12/2010	28/09/2012
+Blackpool	Colin Hendry	07/06/2004	24/11/2005
+Blackpool	Ian Holloway	21/05/2009	03/11/2012
+Bolton Wanderers	Roy McFarland	01/08/1995	02/01/1996
+Bolton Wanderers	Colin Todd	02/01/1996	22/09/1999
+Bolton Wanderers	Sam Allardyce	19/10/1999	29/04/2007
+Bolton Wanderers	Sammy Lee	30/04/2007	17/10/2007
+Bolton Wanderers	Archie Knox	18/10/2007	25/10/2007
+Bolton Wanderers	Gary Megson	25/10/2007	30/12/2009
+Bolton Wanderers	Owen Coyle	08/01/2010	09/10/2012
+Bournemouth	Mel Machin	01/09/1994	19/08/2000
+Bournemouth	Eddie Howe	11/10/2012	20/04/2018
+Bradford City	Chris Kamara	27/11/1995	06/01/1998
+Bradford City	Paul Jewell	06/01/1998	18/06/2000
+Bradford City	Chris Hutchings	18/06/2000	06/11/2000
+Bradford City	Stuart McCall	06/11/2000	19/11/2000
+Bradford City	Jim Jefferies	19/11/2000	24/12/2001
+Bradford City	Steve Smith	24/12/2001	31/12/2001
+Bradford City	Nicky Law	01/01/2002	09/11/2003
+Bradford City	Bryan Robson	24/11/2003	17/06/2004
+Bradford City	David Wetherall	12/02/2007	22/05/2007
+Brighton	Mickey Adams	12/04/1999	10/10/2001
+Brighton	Bob Booker	10/10/2001	17/10/2001
+Brighton	Martin Hinshelwood	10/10/2001	17/10/2001
+Brighton	Martin Hinshelwood	15/07/2002	07/10/2002
+Brighton and Hove Albion	Chris Hughton	31/12/2014	20/04/2018
+Burnley	Adrian Heath	07/03/1996	27/06/1997
+Burnley	Owen Coyle	22/11/2007	06/01/2010
+Burnley	Brian Laws	13/01/2010	29/12/2010
+Burnley	Sean Dyche	30/10/2012	20/04/2018
+Cardiff City	Kenny Hibbitt	23/01/1998	16/02/1998
+Cardiff City	Alan Cork	03/07/2001	17/02/2002
+Cardiff City	Malky Mackay	17/06/2011	27/12/2013
+Cardiff City	David Kerslake	27/12/2013	02/01/2014
+Cardiff City	Ole Gunnar Solskjaer	02/01/2014	18/09/2014
+Charlton Athletic	Alan Curbishley	24/07/1991	08/05/2006
+Charlton Athletic	Iain Dowie	30/05/2006	13/11/2006
+Charlton Athletic	Les Reed	14/11/2006	24/12/2006
+Charlton Athletic	Alan Pardew	24/12/2006	23/11/2008
+Chelsea	Ian Porterfield	11/06/1991	15/02/1993
+Chelsea	David Webb	15/02/1993	11/05/1993
+Chelsea	Glenn Hoddle	04/06/1993	10/05/1996
+Chelsea	Ruud Gullit	10/05/1996	12/02/1998
+Chelsea	Gianluca Vialli	12/02/1998	16/09/2000
+Chelsea	Graeme Rix	16/09/2000	18/09/2000
+Chelsea	Ray Wilkins	16/09/2000	18/09/2000
+Chelsea	Claudio Ranieri	18/09/2000	31/05/2004
+Chelsea	José Mourinho	01/06/2004	19/09/2007
+Chelsea	Avram Grant	20/09/2007	24/05/2008
+Chelsea	Felipe Scolari	01/07/2008	09/02/2009
+Chelsea	Guus Hiddink	16/02/2009	01/06/2009
+Chelsea	Carlo Ancelotti	01/07/2009	23/05/2011
+Chelsea	André Villas-Boas	22/06/2011	04/03/2012
+Chelsea	Roberto Di Matteo	04/03/2012	21/11/2012
+Chelsea	Rafael Benítez	21/11/2012	27/05/2013
+Chelsea	José Mourinho	03/06/2013	17/12/2015
+Chelsea	Eddie Newton	18/12/2015	20/12/2015
+Chelsea	Steve Holland	18/12/2015	20/12/2015
+Chelsea	Guus Hiddink	20/12/2015	30/06/2016
+Chelsea	Antonio Conte	01/07/2016	20/04/2018
+Coventry City	Bobby Gould	24/06/1992	24/10/1993
+Coventry City	Phil Neal	24/10/1993	15/02/1995
+Coventry City	Ron Atkinson	15/02/1995	15/11/1996
+Coventry City	Gordon Strachan	15/11/1996	11/09/2001
+Coventry City	Roland Nilsson	10/09/2001	16/04/2002
+Coventry City	Trevor Peake	16/04/2002	24/04/2002
+Coventry City	Steve Ogrizovic	16/04/2002	24/04/2002
+Coventry City	Steve Ogrizovic	03/05/2004	05/06/2004
+Coventry City	Peter Reid	05/06/2004	06/01/2005
+Coventry City	Adrian Heath	06/01/2005	23/01/2005
+Crystal Palace	Steve Coppell	03/06/1984	17/05/1993
+Crystal Palace	Alan Smith	03/06/1993	15/05/1995
+Crystal Palace	Steve Coppell	28/02/1997	13/03/1998
+Crystal Palace	Attilio Lombardo	13/03/1998	29/04/1998
+Crystal Palace	Tomas Brolin	13/03/1998	28/04/1998
+Crystal Palace	Ray Lewington	29/04/1998	31/05/1998
+Crystal Palace	Ron Noades	29/04/1998	31/05/1998
+Crystal Palace	Steve Kember	18/04/2003	03/11/2003
+Crystal Palace	Terry Bullivant	18/04/2003	23/05/2003
+Crystal Palace	Kit Symons	03/11/2003	21/12/2003
+Crystal Palace	Iain Dowie	22/12/2003	22/05/2006
+Crystal Palace	Ian Holloway	05/11/2012	23/10/2013
+Crystal Palace	Keith Millen	23/10/2013	24/11/2013
+Crystal Palace	Tony Pulis	24/11/2013	14/08/2014
+Crystal Palace	Keith Millen	14/08/2014	27/08/2014
+Crystal Palace	Neil Warnock	27/08/2014	27/12/2014
+Crystal Palace	Keith Millen	27/12/2014	03/01/2015
+Crystal Palace	Alan Pardew	03/01/2015	22/12/2016
+Crystal Palace	Sam Allardyce	23/12/2016	23/05/2017
+Crystal Palace	Frank de Boer	26/06/2017	11/09/2017
+Crystal Palace	Roy Hodgson	12/09/2017	20/04/2018
+Derby	Terry Westley	30/01/2006	02/06/2006
+Derby County	Jim Smith	15/06/1995	07/10/2001
+Derby County	Colin Todd	08/10/2001	14/01/2002
+Derby County	Billy McEwan	28/01/2002	30/01/2002
+Derby County	John Gregory	30/01/2002	21/03/2003
+Derby County	Billy Davies	02/06/2006	27/11/2007
+Derby County	Paul Jewell	28/11/2007	29/12/2008
+Everton	Howard Kendall	05/11/1990	05/12/1993
+Everton	Jimmy Gabriel	05/12/1993	06/01/1994
+Everton	Mike Walker	07/01/1994	08/11/1994
+Everton	Joe Royle	10/11/1994	27/03/1997
+Everton	Dave Watson	01/04/1997	31/05/1997
+Everton	Howard Kendall	27/06/1997	01/07/1998
+Everton	Walter Smith	01/07/1998	12/03/2002
+Everton	David Moyes	14/03/2002	01/07/2013
+Everton	Roberto Martínez	05/06/2013	12/05/2016
+Everton	David Unsworth	12/05/2016	14/06/2016
+Everton	Joe Royle	12/05/2016	14/06/2016
+Everton	Ronald Koeman	14/06/2016	23/10/2017
+Everton	David Unsworth	24/10/2017	30/11/2017
+Everton	Sam Allardyce	30/11/2017	20/04/2018
+Fulham	Mickey Adams	01/08/1996	25/09/1997
+Fulham	Frank Sibley	09/05/1999	14/05/1999
+Fulham	Paul Bracewell	14/05/1999	29/03/2000
+Fulham	Karlheinz Riedle	30/03/2000	01/07/2000
+Fulham	Jean Tigana	01/07/2000	17/04/2003
+Fulham	Chris Coleman	17/04/2003	11/04/2007
+Fulham	Lawrie Sanchez	11/04/2007	21/12/2007
+Fulham	Billy McKinlay	21/12/2007	30/12/2007
+Fulham	Ray Lewington	21/12/2007	30/12/2007
+Fulham	Roy Hodgson	30/12/2007	01/07/2010
+Fulham	Mark Hughes	29/07/2010	02/06/2011
+Fulham	Martin Jol	07/06/2011	01/12/2013
+Fulham	Rene Meulensteen	01/12/2013	14/02/2014
+Fulham	Felix Magath	14/02/2014	18/09/2014
+Huddersfield Town	David Wagner	09/11/2015	20/04/2018
+Hull	Mark Hateley	15/07/1997	11/11/1998
+Hull	Billy Russell	27/02/2002	04/04/2002
+Hull	Jan Molby	04/04/2002	11/10/2002
+Hull	Billy Russell	11/10/2002	14/10/2002
+Hull City	Phil Brown	04/12/2006	15/03/2010
+Hull City	Iain Dowie	17/03/2010	29/06/2010
+Hull City	Steve Bruce	08/06/2012	22/07/2016
+Hull City	Mike Phelan	22/07/2016	03/01/2017
+Hull City	Marco Silva	05/01/2017	25/05/2017
+Ipswich Town	John Lyall	11/05/1990	11/12/1994
+Ipswich Town	Paul Goddard	12/12/1994	28/12/1994
+Ipswich Town	John Wark	12/12/1994	27/12/1994
+Ipswich Town	George Burley	27/12/1994	11/10/2002
+Leeds United	Howard Wilkinson	06/09/1988	09/09/1996
+Leeds United	George Graham	09/09/1996	24/09/1998
+Leeds United	David O'Leary	25/09/1998	06/06/2002
+Leeds United	Terry Venables	01/07/2002	21/03/2003
+Leeds United	Peter Reid	21/03/2003	09/11/2003
+Leeds United	Eddie Gray	10/11/2003	31/05/2004
+Leicester City	Brian Little	30/05/1991	22/11/1994
+Leicester City	Kevin MacDonald	22/11/1994	14/12/1994
+Leicester City	Mark McGhee	14/12/1994	07/12/1995
+Leicester City	Martin O'Neill	21/12/1995	01/06/2000
+Leicester City	Peter Taylor	12/06/2000	30/09/2001
+Leicester City	Dave Bassett	10/10/2001	07/04/2002
+Leicester City	Mickey Adams	07/04/2002	11/10/2004
+Leicester City	Nigel Pearson	15/11/2011	30/06/2015
+Leicester City	Claudio Ranieri	13/07/2015	23/02/2017
+Leicester City	Craig Shakespeare	23/02/2017	17/10/2017
+Leicester City	Michael Appleton	17/10/2017	25/10/2017
+Leicester City	Claude Puel	25/10/2017	20/04/2018
+Liverpool	Graeme Souness	01/08/1991	28/01/1994
+Liverpool	Roy Evans	29/01/1994	12/11/1998
+Liverpool	Gérard Houllier	01/07/1998	12/11/1998
+Liverpool	Gérard Houllier	12/11/1998	31/05/2004
+Liverpool	Rafael Benítez	16/06/2004	03/06/2010
+Liverpool	Roy Hodgson	01/07/2010	08/01/2011
+Liverpool	Kenny Dalglish	08/01/2011	16/05/2012
+Liverpool	Brendan Rodgers	01/06/2012	05/10/2015
+Liverpool	Jürgen Klopp	08/10/2015	20/04/2018
+Manchester City	Peter Reid	15/11/1990	26/08/1993
+Manchester City	Tony Book	26/08/1993	28/08/1993
+Manchester City	Brian Horton	28/08/1993	16/05/1995
+Manchester City	Alan Ball	02/07/1995	27/08/1996
+Manchester City	Joe Royle	18/02/1998	21/05/2001
+Manchester City	Kevin Keegan	24/05/2001	11/03/2005
+Manchester City	Stuart Pearce	11/03/2005	14/05/2007
+Manchester City	Sven-Göran Eriksson	01/07/2007	02/06/2008
+Manchester City	Mark Hughes	04/06/2008	20/12/2009
+Manchester City	Roberto Mancini	20/12/2009	13/05/2013
+Manchester City	Brian Kidd	13/05/2013	14/06/2013
+Manchester City	Manuel Pellegrini	14/06/2013	30/06/2016
+Manchester City	Josep Guardiola	01/07/2016	20/04/2018
+Manchester United	Alex Ferguson	06/11/1986	01/07/2013
+Manchester United	David Moyes	01/07/2013	22/04/2014
+Manchester United	Ryan Giggs	22/04/2014	19/05/2014
+Manchester United	Louis van Gaal	14/07/2014	23/05/2016
+Manchester United	José Mourinho	27/05/2016	20/04/2018
+Middlesbrough	Lennie Lawrence	10/07/1991	19/05/1994
+Middlesbrough	Bryan Robson	31/05/1994	06/12/2000
+Middlesbrough	Terry Venables	06/12/2000	01/06/2001
+Middlesbrough	Steve McClaren	12/06/2001	11/05/2006
+Middlesbrough	Gareth Southgate	07/06/2006	21/10/2009
+Middlesbrough	Aitor Karanka	13/11/2013	16/03/2017
+Middlesbrough	Steve Agnew	16/03/2017	09/06/2017
+Newcastle United	Kevin Keegan	05/02/1992	08/01/1997
+Newcastle United	Terry McDermott	09/01/1997	13/01/1997
+Newcastle United	Kenny Dalglish	14/01/1997	27/08/1998
+Newcastle United	Ruud Gullit	27/08/1998	28/08/1999
+Newcastle United	Steve Clarke	29/08/1999	01/09/1999
+Newcastle United	Bobby Robson	02/09/1999	30/08/2004
+Newcastle United	John Carver	31/08/2004	13/09/2004
+Newcastle United	Graeme Souness	13/09/2004	02/02/2006
+Newcastle United	Glenn Roeder	02/02/2006	06/05/2007
+Newcastle United	Nigel Pearson	06/05/2007	15/05/2007
+Newcastle United	Sam Allardyce	15/05/2007	09/01/2008
+Newcastle United	Nigel Pearson	09/01/2008	17/01/2008
+Newcastle United	Kevin Keegan	17/01/2008	04/09/2008
+Newcastle United	Chris Hughton	04/09/2008	28/09/2008
+Newcastle United	Joe Kinnear	28/09/2008	01/04/2009
+Newcastle United	Alan Shearer	01/04/2009	30/05/2009
+Newcastle United	Chris Hughton	01/06/2009	06/12/2010
+Newcastle United	Alan Pardew	09/12/2010	31/12/2014
+Newcastle United	John Carver	31/12/2014	09/06/2015
+Newcastle United	Steve McClaren	11/06/2015	11/03/2016
+Newcastle United	Rafael Benítez	11/03/2016	20/04/2018
+Norwich City	Mike Walker	01/06/1992	31/01/1994
+Norwich City	John Deehan	31/01/1994	09/04/1995
+Norwich City	Gary Megson	10/04/1995	30/06/1995
+Norwich City	Nigel Worthington	04/12/2000	02/10/2006
+Norwich City	Paul Lambert	18/08/2009	02/06/2012
+Norwich City	Chris Hughton	07/06/2012	06/04/2014
+Norwich City	Neil Adams	06/04/2014	05/01/2015
+Norwich City	Alex Neil	09/01/2015	10/03/2017
+Nottingham Forest	Brian Clough	01/06/1975	30/06/1993
+Nottingham Forest	Frank Clark	01/07/1993	18/12/1996
+Nottingham Forest	Stuart Pearce	23/12/1996	08/05/1997
+Nottingham Forest	Dave Bassett	08/05/1997	05/01/1999
+Nottingham Forest	Mickey Adams	05/01/1999	11/01/1999
+Nottingham Forest	Ron Atkinson	12/01/1999	01/06/1999
+Oldham Athletic	Joe Royle	14/07/1982	10/11/1994
+Portsmouth	Keith Waldon	13/01/1998	26/01/1998
+Portsmouth	Bob McNabb	09/12/1999	13/01/2000
+Portsmouth	Tony Pulis	13/01/2000	12/10/2000
+Portsmouth	Harry Redknapp	25/03/2002	24/11/2004
+Portsmouth	Velimir Zajec	24/11/2004	07/04/2005
+Portsmouth	Alain Perrin	07/04/2005	24/11/2005
+Portsmouth	Joe Jordan	25/11/2005	04/12/2005
+Portsmouth	Harry Redknapp	07/12/2005	25/10/2008
+Portsmouth	Tony Adams	26/10/2008	09/02/2009
+Portsmouth	Joe Jordan	26/10/2008	28/10/2008
+Portsmouth	Paul Hart	09/02/2009	24/11/2009
+Portsmouth	Avram Grant	26/11/2009	20/05/2010
+Queens Park Rangers	Gerry Francis	30/05/1991	15/11/1994
+Queens Park Rangers	Ray Wilkins	15/11/1994	04/09/1996
+Queens Park Rangers	Neil Warnock	02/03/2010	08/01/2012
+Queens Park Rangers	Mark Hughes	10/01/2012	23/11/2012
+Queens Park Rangers	Mark Bowen	23/11/2012	25/11/2012
+Queens Park Rangers	Harry Redknapp	25/11/2012	03/02/2015
+Queens Park Rangers	Chris Ramsey	03/02/2015	04/11/2015
+Queens Park Rangers	Kevin Bond	03/02/2015	13/02/2015
+Reading	Mick Gooding	05/01/1995	09/05/1997
+Reading	Terry Bullivant	30/06/1997	18/03/1998
+Reading	Alan Pardew	18/03/1998	25/03/1998
+Reading	Tommy Burns	25/03/1998	16/09/1999
+Reading	Steve Coppell	09/10/2003	13/05/2009
+Reading	Brian McDermott	17/12/2009	11/03/2013
+Reading	Eamonn Dolan	12/03/2013	26/03/2013
+Reading	Nigel Adkins	26/03/2013	15/12/2014
+Sheffield United	Dave Bassett	21/01/1988	15/12/1995
+Sheffield United	Nigel Spackman	27/06/1997	02/03/1998
+Sheffield United	Russell Slade	02/03/1998	09/03/1998
+Sheffield United	Steve Thompson	03/03/1998	02/07/1998
+Sheffield United	Adrian Heath	15/06/1999	23/11/1999
+Sheffield United	Russell Slade	23/11/1999	02/12/1999
+Sheffield United	Neil Warnock	02/12/1999	16/05/2007
+Sheffield Wednesday	Trevor Francis	07/06/1991	20/05/1995
+Sheffield Wednesday	David Pleat	14/06/1995	03/11/1997
+Sheffield Wednesday	Ron Atkinson	07/11/1997	17/05/1998
+Sheffield Wednesday	Danny Wilson	06/07/1998	21/03/2000
+Sheffield Wednesday	Peter Shreeves	21/03/2000	21/06/2000
+Southampton	Ian Branfoot	01/06/1991	10/01/1994
+Southampton	Alan Ball	11/01/1994	01/07/1995
+Southampton	David Merrington	01/07/1995	01/06/1996
+Southampton	Graeme Souness	01/06/1996	01/07/1997
+Southampton	Dave Jones	01/07/1997	27/01/2000
+Southampton	Glenn Hoddle	28/01/2000	28/03/2001
+Southampton	Stuart Gray	16/03/2001	21/10/2001
+Southampton	Gordon Strachan	22/10/2001	13/02/2004
+Southampton	Steve Wigley	13/02/2004	04/03/2004
+Southampton	Paul Sturrock	04/03/2004	23/08/2004
+Southampton	Steve Wigley	23/08/2004	08/12/2004
+Southampton	Harry Redknapp	08/12/2004	02/12/2005
+Southampton	Nigel Adkins	12/09/2010	18/01/2013
+Southampton	Mauricio Pochettino	18/01/2013	27/05/2014
+Southampton	Ronald Koeman	16/06/2014	14/06/2016
+Southampton	Claude Puel	30/06/2016	14/06/2017
+Southampton	Mauricio Pellegrino	23/06/2017	12/03/2018
+Southampton	Mark Hughes	14/03/2018	20/04/2018
+Stoke City	Chic Bates	01/07/1997	22/01/1998
+Stoke City	Chris Kamara	22/01/1998	08/04/1998
+Stoke City	Alan Durban	08/04/1998	13/05/1998
+Stoke City	Steve Cotterill	27/05/2002	10/10/2002
+Stoke City	Tony Pulis	15/06/2006	21/05/2013
+Stoke City	Mark Hughes	30/05/2013	07/01/2018
+Stoke City	Eddie Niedzwiecki	08/01/2018	16/01/2018
+Stoke City	Paul Lambert	16/01/2018	20/04/2018
+Sunderland	Peter Reid	29/03/1995	07/10/2002
+Sunderland	Howard Wilkinson	10/10/2002	10/03/2003
+Sunderland	Mick McCarthy	12/03/2003	06/03/2006
+Sunderland	Kevin Ball	07/03/2006	31/05/2006
+Sunderland	Roy Keane	28/08/2006	04/12/2008
+Sunderland	Ricky Sbragia	04/12/2008	25/05/2009
+Sunderland	Steve Bruce	03/06/2009	30/11/2011
+Sunderland	Eric Black	30/11/2011	05/12/2011
+Sunderland	Martin O'Neill	05/12/2011	30/03/2013
+Sunderland	Paolo Di Canio	31/03/2013	22/09/2013
+Sunderland	Kevin Ball	22/09/2013	08/10/2013
+Sunderland	Gustavo Poyet	08/10/2013	16/03/2015
+Sunderland	Dick Advocaat	17/03/2015	04/10/2015
+Sunderland	Sam Allardyce	09/10/2015	22/07/2016
+Sunderland	David Moyes	23/07/2016	22/05/2017
+Sunderland	Simon Grayson	29/06/2017	03/11/2017
+Sunderland	Robbie Stockdale	03/11/2017	19/11/2017
+Sunderland	Chris Coleman	19/11/2017	30/04/2018
+Sunderland	Robbie Stockdale	30/04/2018	13/05/2018
+Swansea City	Jan Molby	22/02/1996	08/10/1997
+Swansea City	Mickey Adams	09/10/1997	22/10/1997
+Swansea City	Alan Cork	22/10/1997	30/06/1998
+Swansea City	John Hollins	01/07/1998	12/09/2001
+Swansea City	Roger Freestone	08/03/2002	20/04/2002
+Swansea City	Nick Cusack	08/03/2002	19/09/2002
+Swansea City	Brendan Rodgers	14/07/2010	01/06/2012
+Swansea City	Michael Laudrup	15/06/2012	04/02/2014
+Swansea City	Garry Monk	04/02/2014	09/12/2015
+Swansea City	Alan Curtis	11/12/2015	19/01/2016
+Swansea City	Francesco Guidolin	19/01/2016	03/10/2016
+Swansea City	Bob Bradley	04/10/2016	27/12/2016
+Swansea City	Alan Curtis	30/12/2016	03/01/2017
+Swansea City	Paul Clement	03/01/2017	20/12/2017
+Swansea City	Leon Britton	22/12/2017	28/12/2017
+Swansea City	Carlos Carvalhal	28/12/2017	20/04/2018
+Swindon Town	John Gorman	04/06/1993	21/11/1994
+Tottenham Hotspur	Doug Livermore	27/05/1992	19/06/1993
+Tottenham Hotspur	Ray Clemence	27/05/1992	19/06/1993
+Tottenham Hotspur	Osvaldo Ardiles	19/06/1993	01/11/1994
+Tottenham Hotspur	Steve Perryman	02/11/1994	14/11/1994
+Tottenham Hotspur	Gerry Francis	15/11/1994	19/11/1997
+Tottenham Hotspur	Chris Hughton	19/11/1997	26/11/1997
+Tottenham Hotspur	Christian Gross	26/11/1997	05/09/1998
+Tottenham Hotspur	David Pleat	05/09/1998	01/10/1998
+Tottenham Hotspur	George Graham	01/10/1998	16/03/2001
+Tottenham Hotspur	David Pleat	16/03/2001	01/04/2001
+Tottenham Hotspur	Glenn Hoddle	02/04/2001	21/09/2003
+Tottenham Hotspur	David Pleat	21/09/2003	03/06/2004
+Tottenham Hotspur	Jacques Santini	03/06/2004	05/11/2004
+Tottenham Hotspur	Martin Jol	05/11/2004	26/10/2007
+Tottenham Hotspur	Alex Inglethorpe	26/10/2007	29/10/2007
+Tottenham Hotspur	Clive Allen	26/10/2007	29/10/2007
+Tottenham Hotspur	Juande Ramos	29/10/2007	25/10/2008
+Tottenham Hotspur	Harry Redknapp	25/10/2008	14/06/2012
+Tottenham Hotspur	André Villas-Boas	03/07/2012	16/12/2013
+Tottenham Hotspur	Tim Sherwood	16/12/2013	26/05/2014
+Tottenham Hotspur	Mauricio Pochettino	27/05/2014	20/04/2018
+Watford	Graham Taylor	21/02/1996	01/06/2001
+Watford	Aidy Boothroyd	29/03/2005	03/11/2008
+Watford	Quique Sánchez Flores	05/06/2015	30/06/2016
+Watford	Walter Mazzarri	01/07/2016	22/05/2017
+Watford	Marco Silva	28/05/2017	21/01/2018
+Watford	Javier Gracia	21/01/2018	20/04/2018
+West Bromwich Albion	Gary Megson	09/03/2000	26/10/2004
+West Bromwich Albion	Frank Burrows	26/10/2004	09/11/2004
+West Bromwich Albion	Bryan Robson	09/11/2004	18/09/2006
+West Bromwich Albion	Tony Mowbray	18/10/2006	12/06/2009
+West Bromwich Albion	Roberto Di Matteo	01/07/2009	06/02/2011
+West Bromwich Albion	Michael Appleton	06/02/2011	14/02/2011
+West Bromwich Albion	Roy Hodgson	14/02/2011	14/05/2012
+West Bromwich Albion	Steve Clarke	08/06/2012	15/12/2013
+West Bromwich Albion	Keith Downing	15/12/2013	12/01/2014
+West Bromwich Albion	Pepe Mel	12/01/2014	12/05/2014
+West Bromwich Albion	Alan Irvine	14/06/2014	29/12/2014
+West Bromwich Albion	Rob Kelly	29/12/2014	02/01/2015
+West Bromwich Albion	Tony Pulis	02/01/2015	20/11/2017
+West Bromwich Albion	Gary Megson	20/11/2017	29/11/2017
+West Bromwich Albion	Alan Pardew	29/11/2017	2/4/2018
+West Bromwich Albion	Darren Moore	02/04/2018	20/04/2018
+West Ham United	Billy Bonds	23/02/1990	10/08/1994
+West Ham United	Harry Redknapp	10/08/1994	09/05/2001
+West Ham United	Glenn Roeder	09/05/2001	24/04/2003
+West Ham United	Trevor Brooking	24/04/2003	20/10/2003
+West Ham United	Alan Pardew	20/10/2003	11/12/2006
+West Ham United	Alan Curbishley	13/12/2006	03/09/2008
+West Ham United	Kevin Keen	03/09/2008	14/09/2008
+West Ham United	Gianfranco Zola	15/09/2008	11/05/2010
+West Ham United	Avram Grant	03/06/2010	16/05/2011
+West Ham United	Kevin Keen	16/05/2011	01/06/2011
+West Ham United	Sam Allardyce	01/06/2011	25/05/2015
+West Ham United	Slaven Bilic	09/06/2015	06/11/2017
+West Ham United	David Moyes	07/11/2017	20/04/2018
+Wigan Athletic	Ray Mathias	04/08/1998	21/05/1999
+Wigan Athletic	John Benson	21/05/1999	26/06/2000
+Wigan Athletic	Paul Jewell	12/06/2001	14/05/2007
+Wigan Athletic	Chris Hutchings	14/05/2007	05/11/2007
+Wigan Athletic	Frank Barlow	05/11/2007	26/11/2007
+Wigan Athletic	Steve Bruce	26/11/2007	03/06/2009
+Wigan Athletic	Roberto Martínez	16/06/2009	05/06/2013
+Wimbledon	Joe Kinnear	01/06/1992	29/05/1999
+Wimbledon	Egil Roger Olsen	06/06/1999	06/06/2000
+Wolverhampton Wanderers	Dave Jones	03/01/2001	01/11/2004
+Wolverhampton Wanderers	Mick McCarthy	21/07/2006	13/02/2012
+Wolverhampton Wanderers	Terry Connor	13/02/2012	14/05/2012
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
